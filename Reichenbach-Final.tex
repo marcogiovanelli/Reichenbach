@@ -107,7 +107,7 @@ This study demonstrates how in the \Ap, starting from the affine connection inst
 \Gr rests formally on Riemannian geometry. The latter is based on the \scare{hypothesis} that the squared distance $ds$ between two neighboring points; \xadx is a homogeneous, second-order function of the four coordinate differentials. In Einstein's notation (where summation over repeated indices is implied), it\todo{improve} reads as follows:
 
 \begin{equation}\label{eq:lineelement}
-ds^2=\gmn dx_\mu dx_\nu\.
+ds^2=\gmn dx_\mu dx_\nu\,.
 \end{equation}
 %
 As is well-known, the coefficients $\gmn=g_{\nu\mu}$ are at the same time (a) the components of the metric (\scare{measurement}) field---a set of 10 numbers that serve to convert coordinate distances $dx_\nu$ between two closed by \st points into real distances $ds=\pm 1$--- and (b) components of the gravitational field. The numerical value of the $ds$ has a physical meaning, if it can be considered as the result of a measurements, which inevitably demand a unit in which to measure. In \rt, \rac at relative rest in a free-falling frame, perform orthogonal measurements, clocks supply $d s=-1$, and rods $d s=+1$. \q{Why are these measuring instruments adequate for this purpose?} \rzlap{331}{463}. The fundamental property that makes them suitable for measuring the $ds$ was outlined by Reichenbach in \S4 of the \PRZL \rzlp{26--27}{17}. One can chose, say, $n$ spacings between the atoms of a rock-salt crystal as a unit of length $ds=1$. As it turns out, two identical crystals that have the same length when lying next to each other are always found to be equally long after having been transported along different paths to a distant place. The same holds for unit clocks. One can arbitrarily choose $n_1$ wave crests of cadmium atom emitting the red line or $n_2$ of a sodium atom emitting the yellow line as a unit of time $ds=-1$. However, the ratio $n_1/n_2$ happens to be a natural constant.
@@ -144,7 +144,7 @@ In particular, Weyl envisaged a geometrical setting \q{[t]he comparison of lengt
 Let us assume that a coordinate system is spread over an \st region, so that each point is identified by a set of four numbers $x_\nu$ (where $\nu=1, 2, 3, 4$). This coordinatization is of course completely arbitrary. A vector $A^\tau$ placed at some point $P$ with coordinates \xn can be thought as an arrow or as the sum of its components $A^\mu$, the four numbers ($A_1$, $A_2$, $A_3$, $A_4$) that we associate with some point $P$. Given a vector with components $A^{\mu}$ in the coordinate $\xn$, the components $A^{\prime \mu}$ of the vector in the coordinates \xnpr is $A'^{\mu}=\left(\partial x^{\prime \mu} / \partial x^{\rho}\right) A^{\mu}$. A collection of four numbers $A^\mu$ that change according to this rule is defined as the contravariant components of a vector $A^\tau$. For example, the displacement vector, $d_\nu$ (the separation between two neighboring points), leading from $\xn$ to $\xn + d\xn$ is the prototype of a contravariant vector. In Euclidean geometry, it is always possible to introduce a Cartesian coordinate system in which two vectors are equal and parallel when they have the same components:
 
 \begin{equation}\label{eq:samness}
-A'^\tau-A^\tau=0\.
+A'^\tau-A^\tau=0\,.
 \end{equation}
 %
 One can move $A^\tau$ at $P$ with coordinates \xn to a neighboring point $P'$ with the coordinates $\xn+dx_\nu$ from $P$ and place a vector, $A'^{\tau}$, there. $dx_\nu$ might be called a \scare{displacement}\footnoteh{Transfer}. If the vector does not change its components, then it is the \scare{same} vector at a different point $P'$. 
@@ -157,13 +157,13 @@ However, this simple relation does not hold if we introduce curvilinear coordina
 To reinstate the \scare{connection}, one needs to establish a rule to compare vectors at infinitesimally separated points. 
 
 \begin{equation*}
-dA^\tau = A^{\prime\tau}-A^{\tau}\.
+dA^\tau = A^{\prime\tau}-A^{\tau}\,.
 \end{equation*}
 %
 Given a vector $A^\tau$ at \xn in any coordinate system, we need to determine the components vector $A'^\tau$ at $\xn+d\xn$ that is to be considered the \scare{same vector} as the given vector $A^\tau$, that is, $dA^\tau=0$. We expect that the vector at $\xn+\diff \xnpr$ will depend linearly on the vector at \xn; further, the change in the components between the two points will be proportional to the coordinate shifts $\diff \xn$. Thus, we expect a rule that takes the form:
 
 \begin{equation}\label{eq:affine}
-dA^\tau = \Gamma^\tau_{\mu\nu}A^{\mu} dx_\nu\.
+dA^\tau = \Gamma^\tau_{\mu\nu}A^{\mu} dx_\nu\,.
 \end{equation}
 %
 The quantity $\Gamma^\tau_{\mu\nu}$ has three indices, that is, entails $\tau$ possible combinations of $\mu \times \nu$ coefficients, which can vary arbitrarily from \wpo to \wpo. In other words, the \Gtmn are arbitrary continuous functions of the \xn. Notice that Reichenbach, following \citet{Schouten1922a}, did not impose the symmetry of the $\mu,\nu$, so that in general $\Gtmn \neq \Gtnm$. Thus, in four-dimensions, one has $4 \times 16 = 64$ coefficients, which reduce to $4 \times 10 = 40$, if $\Gtmn = \Gtnm$.
@@ -193,7 +193,7 @@ where the integral $s$ depends on the path. Given a vector at one point $P$, usi
 Thus, integrability occurs only in a particular class of spaces, in which it is allowable to speak of the same vector at two different distant points $P$ and $P'$. Such spaces are characterized by the fact that \Gtmn can be made vanish everywhere by a suitable choice of coordinates, that is, by introducing linear coordinates (such as Cartesian coordinates). Given the 64 coefficients of the connection \Gtmn at every point, it would be difficult to decide by sheer inspection whether this is the case. One needs, therefore, to introduce a criterion of integrability. From the connection alone, one can construct the following tensor:
 
 \begin{equation}\label{eq:riemanntensorgamma}
-R_{\mu \nu \sigma}^{\tau}(\Gamma)=\frac{\partial \Gamma_{\mu \nu}^{\tau}}{\partial x^{\sigma}}-\frac{\partial \Gamma_{\mu \sigma}^{\tau}}{\partial x^{\nu}}+\Gamma_{\alpha \nu}^{\tau} \Gamma_{\mu \sigma}^{\alpha}-\Gamma_{\alpha \sigma}^{\tau} \Gamma_{\mu\sigma}^{\alpha}\.	
+R_{\mu \nu \sigma}^{\tau}(\Gamma)=\frac{\partial \Gamma_{\mu \nu}^{\tau}}{\partial x^{\sigma}}-\frac{\partial \Gamma_{\mu \sigma}^{\tau}}{\partial x^{\nu}}+\Gamma_{\alpha \nu}^{\tau} \Gamma_{\mu \sigma}^{\alpha}-\Gamma_{\alpha \sigma}^{\tau} \Gamma_{\mu\sigma}^{\alpha}\,.	
 \end{equation}
 %
 Weyl called this four-index symbol \scare{direction curvature}, and it is always antisymmetrical in $\nu\sigma$, but possesses no other symmetry properties. Thus, in general, it has $4 \times 4 \times 6=96$ components. If the tensor \ritea vanishes, one can introduce \scare{linear} coordinate systems, which are characterized by the fact that in them, the \emph{same} vectors have the same components at different points of the systems. If it does not, it is impossible to introduce such a \scare{linear} coordinate system. Thus, from the operation of displacement alone, one can construct an analogon of the Riemann tensor \riteg without any reference to the metric \gmn.
@@ -202,13 +202,13 @@ Weyl called this four-index symbol \scare{direction curvature}, and it is always
  
  
 \begin{equation}\labtag{eq:3}
-l^2=\gmn A^\mu A^\nu = g^{\mu\nu} A_\mu A_\nu = A^\mu A_\mu\.
+l^2=\gmn A^\mu A^\nu = g^{\mu\nu} A_\mu A_\nu = A^\mu A_\mu\,.
 \end{equation}
 %
 The \gmn is the so-called metric (\ie measurement) tensor. Its primary role is to indicate how to compute an invariant length $l$ of a vector $A^\tau$ from its components $A^\mu$, which are in general different in different coordinate systems; its secondary role is to allow the conversion between contravariant and covariant components $A^\nu = \gmn A^\mu$ and $A^\nu = g^{\mu \nu} A_\mu$. The contravariant vector $A^\tau$ could be for the displacement vector $dx^\nu$\footnote{As Reichenbach rightly noticed, \q{writing of a coordinate differential with a lower index is a mistake} \rzlap{348}{485\fn}, since coordinate differentials are the prototype of contravariant vectors. However, it is standard in physical literature}. Then, equation \cref{eq:3} is nothing but \cref{eq:lineelement} which extracts the distance between two neighboring points from their coordinates. If $A^\tau$ is $dx^\nu/ds$, (where $ds$ is the \til interval which is an element of the four-dimensional trajectory of a moving point), then $l$ is length of the four-velocity vector $u^\nu$, $d^{2} x^{\nu} / d s^{2}$ is the four-acceleration vector, and so on. What is worth noting is that in Reichenbach's parlance, the \scare{metric} \gmn is so defined that allows the comparison of the length of two vectors $l$ and $l'$ not only at the same point in different directions, but at distant points independently of the path of transportation:
 
 \begin{equation*}
-l^{\prime}-l=\sqrt{\gmn A^\mu A^\nu}-\sqrt{\gmn^{\prime} A^{\prime\mu} A^{\prime\nu}}\.
+l^{\prime}-l=\sqrt{\gmn A^\mu A^\nu}-\sqrt{\gmn^{\prime} A^{\prime\mu} A^{\prime\nu}}\,.
 \end{equation*}
 %
 In other words, if two vectors are equal at $P$ (that is $l^{\prime}-l=0$), they will be equal at $P'$, whatever the path they are transported. In Reichenbach's parlance, for a manifold to be a metrical space, it is not sufficient that the dot product is defined at every point (\ie it is possible to compare the lengths of vectors at the same point in different directions); in addition, the dot product should not change under parallel transport.
@@ -223,7 +223,7 @@ Reichenbach intended to demonstrate how it was possible to construct a class of 
 Since the metric and the displacement are two independent geometrical operations, to define a \scare{balanced space}, Reichenbach needed to introduce a formal measure of their reciprocal compatibility. Following Eddington, Reichenbach introduced a mathematical object that determines how much the length $l$ of a vector changes $d\left(l^{2}\right)$ under parallel transport:
 
 \begin{equation}\label{eq:nonmetricity}
-{d}\left(l^{2}\right)=(\notateur{{\frac{\partial {g}_{\mu \nu}}{\partial {x}_{\sigma}}+\Gamma_{\mu \sigma, \nu}+\Gamma_{\nu \sigma, \mu}}}{2}{{K}_{\mu \nu, \sigma}=\nabla \gmn}) {A}^{\mu} {A}^{\nu} {d} {x}_{\sigma}\.
+{d}\left(l^{2}\right)=(\notateur{{\frac{\partial {g}_{\mu \nu}}{\partial {x}_{\sigma}}+\Gamma_{\mu \sigma, \nu}+\Gamma_{\nu \sigma, \mu}}}{2}{{K}_{\mu \nu, \sigma}=\nabla \gmn}) {A}^{\mu} {A}^{\nu} {d} {x}_{\sigma}\,.
 \end{equation}
 %
 The tensor \nonmetr\footnote{The non-metricity tensor in modern parlance} measures the degree compatibility of the metric and the connection, that is, the degree of covariant constancy of the metric. A space in which \nonmetr is defined is a \scare{balanced space}.
@@ -235,19 +235,19 @@ Based on the tensor \nonmetr, Reichenbach introduced a formal classification of 
 \paragraph{General Displacement Space} The contradiction between the metric and the displacement is avoided, by relaxing the metric-compatibility condition: 
 
 \begin{equation*}
-K_{\mu \nu, \sigma}=g_{\mu \nu} \cdot \kappa_{\sigma} \quad \quad d\left({l}^{2}\right)={l}^{2} \kappa_\sigma dx_\sigma\.
+K_{\mu \nu, \sigma}=g_{\mu \nu} \cdot \kappa_{\sigma} \quad \quad d\left({l}^{2}\right)={l}^{2} \kappa_\sigma dx_\sigma\,.
 \end{equation*}
 %
 The dot product of vectors is defined at one point (one can compare the length of two vectors at the same point in different directions). Still, it is not preserved under parallel transport, but it is only proportional\footnote{For this reason, to avoid confusion, it is important to emphasize that in Reichenbach's parlance, the general displacement space is \emph{not} the affine space. It is a semi-metric space}. This means that the angle between two parallel transported vectors, but not their lengths, is preserved. To compare the lengths of vectors attached to different points, such length has to be transported from one point to another, and, in general, the result would depend on the path on transportation. In addition to the knowledge of the \gmn, the determination of the length $l$ of a vector requires knowledge of four more quantities' $\kappa_\sigma$. For two infinitesimally close points, change in length $dl$ of a vector satisfy the relation $dl/l =\kappa_{1} d x+\kappa_{2} d y+\kappa_{3} d x+\kappa_{4} d l=\kappa_{\sigma} d x_{\mu}$. If one further imposes the condition \Gtmn = \Gtmn, one arrives, as a special case, at the geometry originally introduced by \citet{Weyl1918a}, the Weyl space. In this geometry, the affine connection takes the form:
 
 \begin{equation}\label{eq:weylconnection}
-\Gtmn=-\notateol{\christoffel{\mu}{\nu}{\tau}}{2}{\texts{Christoffel Symbols}}+\notateur{\frac{1}{2} g_{\mu}^{\tau} \kappa_{\nu}+\frac{1}{2} g_{\nu}^{\tau} \kappa_{\mu}-\frac{1}{2} \gmn \kappa^{\tau}}{2}{\texts{terms depending on $\gmn$ and $\kappa_\sigma$}} \.
+\Gtmn=-\notateol{\christoffel{\mu}{\nu}{\tau}}{2}{\texts{Christoffel Symbols}}+\notateur{\frac{1}{2} g_{\mu}^{\tau} \kappa_{\nu}+\frac{1}{2} g_{\nu}^{\tau} \kappa_{\mu}-\frac{1}{2} \gmn \kappa^{\tau}}{2}{\texts{terms depending on $\gmn$ and $\kappa_\sigma$}} \,.
 \end{equation}
 %
 \new{As one can see, the metric \gmn does not determine the components of \Gtmn alone, but only together with four-vector $\kappa_\sigma$}. \cop{The straightest lines are defined as usual by the condition that vectors transported along them should always remain parallel to them. However, such lines cannot be interpreted as the shortest lines since the concept of length along different curves is not meaningful}. In this setting, starting from the Weyl connection, one can construct the analogon of the Riemann tensor from the connection, in an usual way:
  
 \begin{equation}\label{eq:weyltensor} 
-B_{\mu \nu \sigma}^{\tau} =\frac{\partial \Gamma_{\mu \nu}^{\tau}}{\partial x^{\sigma}}-\frac{\partial \Gamma_{\mu \sigma}^{\tau}}{\partial x^{\nu}}+\Gamma_{\alpha \nu}^{\tau} \Gamma_{\mu \sigma}^{\alpha}-\Gamma_{\alpha \sigma}^{\tau} \Gamma_{\mu \sigma}^{\alpha}\.
+B_{\mu \nu \sigma}^{\tau} =\frac{\partial \Gamma_{\mu \nu}^{\tau}}{\partial x^{\sigma}}-\frac{\partial \Gamma_{\mu \sigma}^{\tau}}{\partial x^{\nu}}+\Gamma_{\alpha \nu}^{\tau} \Gamma_{\mu \sigma}^{\alpha}-\Gamma_{\alpha \sigma}^{\tau} \Gamma_{\mu \sigma}^{\alpha}\,.
 \end{equation}
 %
 Weyl demonstrated how the \cref{eq:weyltensor} splits into two parts:
@@ -262,19 +262,19 @@ where \rite corresponds to the Riemann tensor, and $\faradaymn$ is an antisymmet
 \paragraph{General Metrical Space} The alternative way to construct a \scare{balanced space} is to impose a more restrictive condition on the displacement
 
 \begin{equation*}
-d\left({l}^{2}\right)=0 \quad \quad K_{\mu \nu, \sigma}= 0\.
+d\left({l}^{2}\right)=0 \quad \quad K_{\mu \nu, \sigma}= 0\,.
 \end{equation*}
 % 
 This implies that the dot product of two vectors is preserved under parallel transport; not only the angle between two parallel transported vectors but also their lengths remain unchanged. As a consequence, one can compare not only the length of vectors at one point in different directions but also at distant points. Thus, the absolute values of the $\gmn$ is defined, not only their ratios. Due to the existence of a metric, the shortest lines are defined. However, in general, they are not identical with the straightest lines defined by the displacement. To make these two special lines coincide, one needs to impose the additional restriction \sym. With this imposition, one obtains Riemann connection\footnote{The Levi-Civita connection}:
 
 \begin{equation}\label{eq:riemannconnection}
-\Gtmn=-\christoffel{\mu}{\nu}{\tau} = \frac{1}{2} {g}^{\tau \sigma}\left(\frac{\partial {x}_{\mu \sigma}}{\partial {x}_{v}}+\frac{\partial {g}_{\nu \sigma}}{\partial {x}_{\mu}}-\frac{\partial {g}_{\mu \nu}}{\partial {x}_{\sigma}}\right)\.
+\Gtmn=-\christoffel{\mu}{\nu}{\tau} = \frac{1}{2} {g}^{\tau \sigma}\left(\frac{\partial {x}_{\mu \sigma}}{\partial {x}_{v}}+\frac{\partial {g}_{\nu \sigma}}{\partial {x}_{\mu}}-\frac{\partial {g}_{\mu \nu}}{\partial {x}_{\sigma}}\right)\,.
 \end{equation}
 %
 This condition guarantees that the affine \scare{straights} are at the same time the lines of extremal \scare{length}. The components of \Gtmn have the same numerical values of the so-called Christoffel symbols of the second kind as they are calculated from the metric \gmn and its first derivatives. They measure the variability of \gmn with respect to the coordinates. \new{Thus, the metric \gmn and its derivatives uniquely determine the components of \Gtmn}. If one starts with a symmetric metric \gmn, the Christoffel symbols are indeed the only possible choice; thus, the full compatibility of the metric and the connection is assured from the outset. By contrast, if one defines the operation of displacement independently from the metric, the Riemannian connection \cref{eq:riemannconnection} appears only as a special case that is achieved by introducing a series of arbitrary restrictions. There are, of course, different Riemannian connections of different curvatures \ritea. If one imposes the further condition that the direction curvature (\german{Richtungskr\"ummung}) vanishes, one obtains the Euclidean space:
 
  \begin{equation*}
- \ritea=0\.
+ \ritea=0\,.
  \end{equation*}
 %
 In the Euclidean space, not only the length but also the direction of vectors is comparable at a distance. Thus, it is meaningful to speak of the same vector at different points. Indeed, in Cartesian coordinates, two vectors with the same components are equal and parallel.
@@ -294,7 +294,7 @@ Let us introduce a flat Newtonian \st with independent, mutually orthogonal spat
 
 \begin{equation}
 \label{eq:forceequation} 
-\mu \notateur[F]{\frac{du^\tau}{\dap}}{2}{\texts{four-acceleration}} \notateol[F]{\Gtmnbar}{2}{\texts{flat affine connection}} u^\mu u^\nu = \notateor{\text{[field strengths]} \times \text{[coupling factor]}}{2}{\texts{force term}} \.
+\mu \notateur[F]{\frac{du^\tau}{\dap}}{2}{\texts{four-acceleration}} \notateol[F]{\Gtmnbar}{2}{\texts{flat affine connection}} u^\mu u^\nu = \notateor{\text{[field strengths]} \times \text{[coupling factor]}}{2}{\texts{force term}} \,.
 \end{equation}
 %\quad \notateur[F]{\text{where \Gtmnbar= \christoffelmnt}}{2}{\texts{flat affine connection}}
 In a world with the electroÂ­magnetic force $\faraday\mn$ but without gravity, objects that carry no electrical charge $\rho$ move on the straightest lines of the flat connection $\Gtmnbar$; that is, the four-velocity vector is displaced parallel to itself, and there is no change in velocity $\hfrac{du^\tau}{\dap}=0$. A connection is \scare{flat} if a coordinate system can be introduced in which $\Gtmnbar=0$ everywhere, \ie $\ritea=0$. Charged objects (objects subject to the forces) are pulled off their inertial motion by the electromagnetic field depending on their charge $\rho f^\tau_\nu u^\nu$. Thus, the velocity vector of charged particles is not transported parallel to itself along their path. The ratio of the inertial mass $\mu$ and the coupling factor $\rho$ is different from particle to particle. Objects with the same mass and smaller electric charge and objects with the same charge and greater mass are less susceptible to electromagnetic fields. Thus, one is able to approximate the straightest paths by using objects of progressively greater masses or smaller charges. As a consequence, motions are divided into two classes: inertial, force-free motions represented by straightest \wl{}s determined by $\Gtmnbar$ and motions caused by the action of forces. One can apply the same approach to the gravitational field. In this case, the field variable is the gravitational scalar potential $\Phi$, and the coupling factor is the gravitational charge $\mu_g$, that is, the gravitational mass. Thus, the force term in the equation of motion would include $-\mu_g \hfrac{\partial \Phi}{\partial x_\nu}$. 
@@ -315,7 +315,7 @@ The sum of an affine connection and a tensor of the this type is again a symmetr
 
 \begin{equation}
 \label{eq:affinegeodesic} 
-\frac{du^\tau}{\dap} \notateur[F]{\Gtmn}{2}{\texts{non-flat affine connection}} u^\mu u^\nu = 0\.
+\frac{du^\tau}{\dap} \notateur[F]{\Gtmn}{2}{\texts{non-flat affine connection}} u^\mu u^\nu = 0\,.
 \end{equation}
 %
 Because the equation of motions of gravitational test charges can be written in the form of \cref{eq:affinegeodesic}, one can say that the gravitational force has been \scare{geometrized}. The planet does not follow its curved path because it is acted upon by the gravitational scalar field, but because the affine connection \Gtmn \q{leaves it, so to speak, no alternative path} \rzlp{295}{257}. The theory still admits a standard of non-acceleration, the motion on the straightest lines of \Gtmn. However, the latter is not fixed once and for all, since the numerical values of its components depend on the gravitational potential $\Phi$. In \citets{Friedrichs1928} theory, the \Gtmn represent the inertial field, and $\gmn$ and $h\mnu$ represent the metric. The inertial field \Gtmn is dynamical and curved and determined by the distribution of matter, whereas the metrics $\gmn$ and $h\mnu$ have fixed constant values. Thus, the metric does not uniquely fix the connection \Gtmn but allows just enough leeway to incorporate the scalar potential $\Phi$ \scitep{Havas1964}. 
@@ -332,7 +332,7 @@ Reichenbach's famous \scare{relativity of geometry} can be reformulated as the c
 
 %descriptive si'm]>licity,
 
-Thus, the choice \cref{li:ncomp} is not matter of \scare{truth}, but it is a matter of \scare{simplicity} \scite[\S2]{Reichenbach1924}. Free falling particles, on the one hand, and free-falling \rac, on the other hand, determine the \emph{same geometry}. In particular, free-falling clocks traveling along a geodesic path also measure the affine parameter $\ap$ in \cref{eq:affinegeodesic} along the path. As a result, the straightest lines defined by the parallel displacement of $u^\mu$ coincide with the lines of extremal lengths as measured by a clock. Admitting the full compatibility of \gmn and \Gtmn implies that, in a certain coordinate system, the components of \Gtmn are numerically equal to the Christoffel symbols as in \cref{eq:riemannconnection}. The Riemann tensor would have two distinct interpretations, Weyl's \scare{direction curvature} \ritea and Riemann's curvature tensor \riteg interpreted as a generalization of the \scare{Gaussian} curvature. As Reichenbach pointed out, at first sight, it is natural to consider the choice of \cref{li:comp} a \scare{geometrization} of gravitation. Like in \citets{Friedrichs1928} theory, in Einstein's theory, the affine connections and the \ritea can be determined experimentally by observing the motion of free-falling particles. However, in Einstein's theory, the affine connections \Gtmn can be expressed in terms of the metric \gmn alone, and the \riteg can be measured using \rac. In this sense, free-falling particles measure the same numerical values of the components of \rite in a given coordinate system, \ie they agree on the same geometry. The gravitational field has become indistinguishable from the geometry of \st.
+Thus, the choice \cref{li:ncomp} is not matter of \scare{truth}, but it is a matter of \scare{simplicity} \cite[see][\S2]{Reichenbach1924}. Free falling particles, on the one hand, and free-falling \rac, on the other hand, determine the \emph{same geometry}. In particular, free-falling clocks traveling along a geodesic path also measure the affine parameter $\ap$ in \cref{eq:affinegeodesic} along the path. As a result, the straightest lines defined by the parallel displacement of $u^\mu$ coincide with the lines of extremal lengths as measured by a clock. Admitting the full compatibility of \gmn and \Gtmn implies that, in a certain coordinate system, the components of \Gtmn are numerically equal to the Christoffel symbols as in \cref{eq:riemannconnection}. The Riemann tensor would have two distinct interpretations, Weyl's \scare{direction curvature} \ritea and Riemann's curvature tensor \riteg interpreted as a generalization of the \scare{Gaussian} curvature. As Reichenbach pointed out, at first sight, it is natural to consider the choice of \cref{li:comp} a \scare{geometrization} of gravitation. Like in \citets{Friedrichs1928} theory, in Einstein's theory, the affine connections and the \ritea can be determined experimentally by observing the motion of free-falling particles. However, in Einstein's theory, the affine connections \Gtmn can be expressed in terms of the metric \gmn alone, and the \riteg can be measured using \rac. In this sense, free-falling particles measure the same numerical values of the components of \rite in a given coordinate system, \ie they agree on the same geometry. The gravitational field has become indistinguishable from the geometry of \st.
 
 However, as we have seen, Reichenbach wanted to resist this conclusion. In Reichenbach's view, there is no need to use \rac for the representation of the gravitational field. In principle, it is sufficient to recognize the gravitational field by the motion of free-falling particles, that is, by considering the operation of displacement. The use of free-falling particles as indicators of the gravitational field also suggests a geometrical interpretation, since the motion of free-falling particles can be represented as motion along geodesics. These are, at the same time, the \til \wl{}s of extremal lengths as measured by a clock free-falling with the particle. Yet, Reichenbach claimed \q{this assertion goes beyond what is given by the motion of the mass points alone since it puts this motion into a relation with the geometrical behavior of the measuring instruments (measurement of length by $ds^2$)} \rzlap{353}{492}. We are not compelled to think at the relation between straightest and longest \wl{} at all times, and one can consider the inertial structure encoding in \Gtmn without considering its relations with the chronometrical structure encoded in the \gmn. The geometrical interpretation of gravitation is a \scare{visualization} (\german{Veranschaulichung}) of the full compatibility $\nonmetr=0$ between \gmn and \Gtmn, but it is not a necessary representation of the gravitational field:
 
@@ -351,7 +351,7 @@ Unfortunately, however, the theory does not agree with the physical facts. Even 
 Thus, Weyl's displacement space is not suited to describe the behavior of \rac and charged mass points in a combined electrical and gravitational field. \q{This means that we have found a cloak in which we can dress the new theory, but we do not have the body that this new cloak would fit} \rzlap{353}{493}. What alternatives do we have at our disposal? According to Reichenbach, physicists had tried to \q{forgo \textelp{} such a realization of the process of displacement} \rzlap{371}{519}. \citet{Weyl1921} reformulated his theory by keeping the \scare{balanced} Weyl space, in which the dot product of vectors is defined, but not preserved under parallel displacement; however, he rejected \rac as indicators of the operation of displacement \Gtmn\footnote{The idea that there are two versions of Weyl's theory was suggested by \cite{Pauli1921a}. \Cf also \citep{Weyl1921e} and \citep[367--368]{Reichenbach1921}}. At around the same time, \citet{Eddington1921} moved beyond Weyl and adopted an unbalanced space in which Riemannian geometry is maintained as true geometry of \st and a symmetric \Gtmn is introduced without reference to the metric. Lengths, even at the same point in different directions, are not comparable. From a symmetric \Gtmn alone, one can construct a curvature tensor \ritea and a Ricci tensor $R\mn$ that is generally non-symmetric:
 
 \begin{equation*}
-R_{\mu \nu}=-\frac{\partial \Gamma_{\mu \nu}^{\alpha}}{\partial x_{\alpha}}+\Gamma_{\mu \beta}^{\alpha} \Gamma_{\nu \alpha}^{\beta}+\frac{\partial \Gamma_{\mu \alpha}^{\alpha}}{\partial x_{\nu}}-\Gamma_{\mu \nu}^{\alpha} \Gamma_{\alpha \beta}^{\beta}\.
+R_{\mu \nu}=-\frac{\partial \Gamma_{\mu \nu}^{\alpha}}{\partial x_{\alpha}}+\Gamma_{\mu \beta}^{\alpha} \Gamma_{\nu \alpha}^{\beta}+\frac{\partial \Gamma_{\mu \alpha}^{\alpha}}{\partial x_{\nu}}-\Gamma_{\mu \nu}^{\alpha} \Gamma_{\alpha \beta}^{\beta}\,.
 \end{equation*}
 %
 This tensor has an antisymmetric part as well as a symmetric part:
@@ -367,7 +367,7 @@ It is natural to identify the antisymmetrical tensor $F\mn$ with the electromagn
 %In particular, the latter were supposed to be derived from Hamilton's principle, \thatis, by demanding that the \st integral of the Lagrangian density $\mathfrak{H}$, taken over any fixed region, be stationary:
 %
 %\begin{equation*}
-%\delta \int{\{\mathfrak{H}}\} d \tau=0\.
+%\delta \int{\{\mathfrak{H}}\} d \tau=0\,.
 %\end{equation*}
 %%
 %If \spti is endowed with an affine connection, but with no metric, the requirement that $\mathfrak{H}$ be an invariant density narrows the \scare{manifold of possibilities} considerably. Indeed, without the metric, it is not possible to raise and lower the indices, and thus to further contract the tensor $R\mn$. As a consequence, the \emph{most simple} choice for the action is $\int \{ R\mn \} d \tau$\todo{cut?}. By varying the latter with respect to \Gtmn, \citet{Einstein1925} was able to recover both Einstein and Maxwell field equations (at least in first approximation) as special cases. 
@@ -382,7 +382,7 @@ Reichenbach, like many others \segcitep{Pauli1926}, was pessimistic about the fe
 To introduce an indicator for the process of displacement \Gtmn, one must select a physical phenomenon in which the gravitational and electric fields together produce a \scare{geometrical effect}. The gravitational and electromagnetic fields together determine the motion of particles. Thus, a natural, but still arbitrary, choice is to use the motion of charged und uncharged particles as indicators of the displacement. The \gmn are measured with \rac, and the velocity four-vector $u^\nu$ of mass points becomes the physical realization of the displacement \Gtmn. The general relativistic equation of the motion of charged particles is, therefore, the starting point of Reichenbach's investigation:
 
 \begin{equation}\label{eq:geodesicaffinecharged} 
-\mu \frac{du^\tau}{\dap} =\notateul[F]{- \christoffel{\mu}{\nu}{\tau}}{2.5}{\texts{Christoffel symbols}}u^\mu u^\nu - \notateor[F]{\rho}{2.5}{\texts{charge}} \notateur[B]{{f}_{\nu}^{\tau}}{2}{{\texts{$g^{\mu\nu}f_\nu^\tau=f\mn$}\;\; \texts{electromagnetic field strengths}}} u^{\nu}\.
+\mu \frac{du^\tau}{\dap} =\notateul[F]{- \christoffel{\mu}{\nu}{\tau}}{2.5}{\texts{Christoffel symbols}}u^\mu u^\nu - \notateor[F]{\rho}{2.5}{\texts{charge}} \notateur[B]{{f}_{\nu}^{\tau}}{2}{{\texts{$g^{\mu\nu}f_\nu^\tau=f\mn$}\;\; \texts{electromagnetic field strengths}}} u^{\nu}\,.
 \end{equation}
 %
 % \,\,\,\,\,\, \text{where}\,\,\, \Gtmn=- \christoffel{\mu}{\nu}{\tau}\,.
@@ -390,7 +390,7 @@ To introduce an indicator for the process of displacement \Gtmn, one must select
 \Cref{eq:geodesicaffinecharged} is a force equation of the type of \cref{eq:affinegeodesic}. Reichenbach's goal was to rewrite \cref{eq:geodesicaffinecharged} in the form of a geodesic equation like \cref{eq:affinegeodesic}, in which $\Gamma\tmn$ will not be equal to the Christoffel symbols. Not dissimilarly than in \citets{Friedrichs1928} theory, the idea was to get rid of the force term by absorbing it in the definition of $\Gamma\tmn$. In this way, both charged and uncharged particles would not experience acceleration under the influence of the combined gravitational/electromagnetic field. Their velocity-vector ${u}^{\nu}$ would be carried along by parallel displacement according to a suitably defined non-Riemannian connection \Gtmn. The four-velocity is not the velocity through space, which can of course take on different magnitude, but a velocity through \st which is fixed (up to a constant). Thus, the length $l$ of the four-vector velocity ${u}^{\nu}$ is given by
 
 \begin{equation}\label{eq:vv} 
-l^2=\gmn u^\mu u^\nu=1\;\;\;\;\;\; \text{(by a suitable choice of units)\footnote{In geometrized units}}\.
+l^2=\gmn u^\mu u^\nu=1\;\;\;\;\;\; \text{(by a suitable choice of units)\footnote{In geometrized units}}\,.
 \end{equation}
 %
 Thus, the length $l$ of this velocity vector must remain unchanged under parallel transport $d(l^2)=0$. As we have seen, if one does not require the connection to be symmetric, then one can work in a metrical space that is not identical to the Riemannian space. In this space, the straightest lines are not identical to the shortest ones \citep[see][248--251]{Misner1973}. Reichenbach exploited this fact to define an operation of displacement that expresses the effect of both the gravitational and electromagnetic fields. Charged mass points of move (that is, their four-vector velocity is parallel-transported) along the straightest lines, and uncharged particles move on the straightest lines that are at the same time the shortest ones (or rather, the \til \wl{}s of extremal length). \new{Since a more philological account of Reichenbach's theory and a comparison with the manuscript he had sent to Einstein have been provided elsewhere \acitep{Giovanelli2016}, I will introduce below a slightly modified and simplified account of Reichenbach's geometrization of the electromagnetic field}. 
@@ -404,7 +404,7 @@ Following the model of \cites{Eddington1921} theory, Reichenbach first introduce
 
 \begin{equation}
 \label{eq:ft} 
-G_{\mu\nu}=\notateul[F]{g_{\mu\nu}}{1.5}{\texts{gravitational field}}+\notateor[F]{f_{\mu\nu}}{1.5}{\texts{electromagnetic field}}\.
+G_{\mu\nu}=\notateul[F]{g_{\mu\nu}}{1.5}{\texts{gravitational field}}+\notateor[F]{f_{\mu\nu}}{1.5}{\texts{electromagnetic field}}\,.
 \end{equation}
 %
 Just like \citet{Eddington1921}, Reichenbach demonstrated how this tensor can be decomposed into a symmetric part $g\mn$ and an anti-symmetric part $f\mn$ that, as one might expect, can be identified with the gravitational/metrical field and the electromagnetic field. The metric can be defined as $d s^2=G_{\mu\nu}d x_\mu d x_\nu= g_{\mu\nu}d x_\mu d x_\nu$. In the absence of the electromagnetic field ($f\mn=0$) (the more $G\mn$ is nearly approximate to $g\mn$), $ds$ is measured by using rods and clocks. Thus, rods and clocks are not indicators of $f\mn$ which is measured by the motion of charged test particles. The two fields are governed by Einstein and \ME, which are left unchanged. Reichenbach's aim was only to modify the equations of motions of particles in both fields without considering the relation of such fields with their sources. 
@@ -427,14 +427,14 @@ In this formulation, the reason for the definitions of \cref{eq:dsd} is immediat
 
 \begin{equation}
 \label{eq:em2} 
-\frac{du^\tau}{ds} =\notateur[F]{\Gamma^{\tau}_{\mu\nu}}{2.5}{\texts{$\gamma\tmn+\varphi\tmn$}}u^\mu u^\nu\.
+\frac{du^\tau}{ds} =\notateur[F]{\Gamma^{\tau}_{\mu\nu}}{2.5}{\texts{$\gamma\tmn+\varphi\tmn$}}u^\mu u^\nu\,.
 \end{equation}
 %
 According to \cref{eq:ds}, this equation is equivalent to the following one:
 
 \begin{equation}
 \label{eq:em2a} 
-\frac{du^\tau}{d\ap}=\gamma^{\tau}_{\mu\nu}u^\mu u^\nu+\varphi^{\tau}_{\mu\nu}u^\mu u^\nu\.
+\frac{du^\tau}{d\ap}=\gamma^{\tau}_{\mu\nu}u^\mu u^\nu+\varphi^{\tau}_{\mu\nu}u^\mu u^\nu\,.
 \end{equation}
 %
 The three-index symbol $\gamma\tmn$ is defined as the Christoffel symbol of the second kind; thus, the first summand of \cref{eq:em2a} is simply the first summand of the left-hand side of the general relativistic force equation \cref{eq:geodesicaffinecharged}. Substituting the definition $\varphi\tmn$ in the second summand of \cref{eq:em2a}, one obtains $- k f_\nu^{\tau} u_\mu u^\mu u^\nu$. Since, according to the definition of four-velocity \cref{eq:vv}, the dot product $u_\mu u^\mu=1$, we have $- k f_\nu^{\tau} u^\nu$, where $k=\ctmrd$. Thus, after multiplying both sides of the equation by $\mu$, the final result is nothing but \cref{eq:geodesicaffinecharged}, from which Reichenbach had started.
@@ -456,7 +456,7 @@ Reichenbach conceded that the theory has a manifest problem\footnote{It is possi
 
 \begin{equation}
 \label{eq:dsd2}
-\gamma^\tau_{\mu\nu}=-\begin{Bmatrix} \mu\nu \\ \tau \end{Bmatrix} \;\;\;\;\;\;\;\;\; \varphi_{\mu \nu}^{\tau}=- f_\nu^{\tau} u_{\mu}\.
+\gamma^\tau_{\mu\nu}=-\begin{Bmatrix} \mu\nu \\ \tau \end{Bmatrix} \;\;\;\;\;\;\;\;\; \varphi_{\mu \nu}^{\tau}=- f_\nu^{\tau} u_{\mu}\,.
 \end{equation}
 %
 The tensorial part of the displacement is now so defined that it depends only on the field variable and the electromagnetic field \faradaymn and not on any property of the test particles, \ie the coupling factor $\rho$ and the inertial mass (since $k$ is set $=1$). The equations of motion now apply only to \emph{unit mass} particles of a certain \emph{unit charge} \rzlap{363\f}{508\ff}. Under the influence of the electromagnetic field, a class of charged particles with an arbitrarily chosen \ctmr move on the straightest lines, and uncharged particles always move on the shortest lines. The norm $k=1$ can be chosen arbitrarily. However, it is advantageous to choose the natural unit represented by the fixed ratio \ctmrf between the charge and mass of the electron. Since there are two types of electrons, positive (the nucleus of the hydrogen atom) and negative, with different \ctmr, the natural choice of the geometry is not unique. There are two \scare{natural} geometries, that is, two connections \Gtmn with different curvatures depending on the choice of $k$.
@@ -500,7 +500,7 @@ Nevertheless, the \Ap is a significant document for the historian of the philoso
 \section{Reichenbach's Classification of Geometries}
 \label{appendix}
 
-\begin{comment}
+
 \footnotesize
 \begin{infobox}
 \begin{center}
@@ -556,5 +556,4 @@ K_{\mu \nu, \sigma} = 0 & & J_{\mu\nu,\tau}\neq 0
 
 \printshorthands
 \printbibliography
-\end{comment}
 \end{document}		
