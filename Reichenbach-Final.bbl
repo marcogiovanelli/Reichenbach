@@ -1,0 +1,2455 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\preamble{%
+\providecommand{\noopsort}[1]{}%
+}
+
+
+\refsection{0}
+  \datalist[list]{shorthand:shorthand/global//global/global}
+    \entry{CPAE}{book}{skipbib=true}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \true{moreeditor}
+      \name{editor}{1}{}{%
+        {{hash=7786767ae8cfbb94931eac9831372fca}{%
+           family={Stachel},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Princeton}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{editorbibnamehash}{1a2af6bc5303664cc72a69e5e6822ef2}
+      \strng{editornamehash}{1a2af6bc5303664cc72a69e5e6822ef2}
+      \strng{editorfullhash}{1a2af6bc5303664cc72a69e5e6822ef2}
+      \field{extraname}{15}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{endyear}{}
+      \field{langid}{english}
+      \field{shorthand}{CPAE}
+      \field{title}{The Collected Papers of {A}lbert {E}instein}
+      \field{volumes}{15}
+      \field{year}{1987}
+      \true{enddateunknown}
+      \field{dateera}{ce}
+    \endentry
+    \entry{HR}{misc}{skipbib=true}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{endyear}{1953}
+      \field{langid}{english}
+      \field{shorthand}{HR}
+      \field{subtitle}{The {H}ans {R}eichenbach {P}apers}
+      \field{title}{Archives of {S}cientific {P}hilosophy}
+      \field{year}{1891}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global}
+    \entry{HR}{misc}{skipbib=true}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{endyear}{1953}
+      \field{langid}{english}
+      \field{shorthand}{HR}
+      \field{subtitle}{The {H}ans {R}eichenbach {P}apers}
+      \field{title}{Archives of {S}cientific {P}hilosophy}
+      \field{year}{1891}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Cartan1923}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7adfcacc7d615e00050031745ed98c89}{%
+           family={Cartan},
+           familyi={C\bibinitperiod},
+           given={Élie},
+           giveni={É\bibinitperiod}}}%
+      }
+      \strng{namehash}{7adfcacc7d615e00050031745ed98c89}
+      \strng{fullhash}{7adfcacc7d615e00050031745ed98c89}
+      \strng{bibnamehash}{7adfcacc7d615e00050031745ed98c89}
+      \strng{authorbibnamehash}{7adfcacc7d615e00050031745ed98c89}
+      \strng{authornamehash}{7adfcacc7d615e00050031745ed98c89}
+      \strng{authorfullhash}{7adfcacc7d615e00050031745ed98c89}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annales scientifiques de l'École Normale Supérieure}
+      \field{langid}{french}
+      \field{title}{Sur les variétés à connexion affine et la théorie de la relativité généralisée}
+      \field{titleaddon}{Premiére partie}
+      \field{volume}{40}
+      \field{year}{1923}
+      \field{dateera}{ce}
+      \field{pages}{325\bibrangedash 412}
+      \range{pages}{88}
+    \endentry
+    \entry{Cartan1924}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7adfcacc7d615e00050031745ed98c89}{%
+           family={Cartan},
+           familyi={C\bibinitperiod},
+           given={Élie},
+           giveni={É\bibinitperiod}}}%
+      }
+      \strng{namehash}{7adfcacc7d615e00050031745ed98c89}
+      \strng{fullhash}{7adfcacc7d615e00050031745ed98c89}
+      \strng{bibnamehash}{7adfcacc7d615e00050031745ed98c89}
+      \strng{authorbibnamehash}{7adfcacc7d615e00050031745ed98c89}
+      \strng{authornamehash}{7adfcacc7d615e00050031745ed98c89}
+      \strng{authorfullhash}{7adfcacc7d615e00050031745ed98c89}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annales scientifiques de l'École Normale Supérieure}
+      \field{langid}{french}
+      \field{title}{Sur les variétés à connexion affine, et la théorie de la relativité généralisée}
+      \field{titleaddon}{Premiére partie, Suite}
+      \field{volume}{41}
+      \field{year}{1924}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
+    \endentry
+    \entry{Coffa1979}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=64422f3421e1d4ef94122c40c5d6ff01}{%
+           family={Coffa},
+           familyi={C\bibinitperiod},
+           given={Alberto\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=0832fb37dc5fcd9794f59c5037b144ac}{%
+           family={Salmon},
+           familyi={S\bibinitperiod},
+           given={Wesley\bibnamedelima C.},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Dordrecht}%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Reidel}%
+      }
+      \strng{namehash}{64422f3421e1d4ef94122c40c5d6ff01}
+      \strng{fullhash}{64422f3421e1d4ef94122c40c5d6ff01}
+      \strng{bibnamehash}{64422f3421e1d4ef94122c40c5d6ff01}
+      \strng{authorbibnamehash}{64422f3421e1d4ef94122c40c5d6ff01}
+      \strng{authornamehash}{64422f3421e1d4ef94122c40c5d6ff01}
+      \strng{authorfullhash}{64422f3421e1d4ef94122c40c5d6ff01}
+      \strng{editorbibnamehash}{0832fb37dc5fcd9794f59c5037b144ac}
+      \strng{editornamehash}{0832fb37dc5fcd9794f59c5037b144ac}
+      \strng{editorfullhash}{0832fb37dc5fcd9794f59c5037b144ac}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Hans {Reichenbach}, Logical Empiricist}
+      \field{langid}{english}
+      \field{number}{132}
+      \field{series}{Synthese library}
+      \field{subtitle}{{W}eyl and {Reichenbach}}
+      \field{title}{Elective Affinities}
+      \field{year}{1979}
+      \field{dateera}{ce}
+      \field{pages}{267\bibrangedash 304}
+      \range{pages}{38}
+    \endentry
+    \entry{Droz-Vincent1967}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a2c4d3643dbb5ce4680c8b106d72cc0e}{%
+           family={Droz-Vincent},
+           familyi={D\bibinithyphendelim V\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2c4d3643dbb5ce4680c8b106d72cc0e}
+      \strng{fullhash}{a2c4d3643dbb5ce4680c8b106d72cc0e}
+      \strng{bibnamehash}{a2c4d3643dbb5ce4680c8b106d72cc0e}
+      \strng{authorbibnamehash}{a2c4d3643dbb5ce4680c8b106d72cc0e}
+      \strng{authornamehash}{a2c4d3643dbb5ce4680c8b106d72cc0e}
+      \strng{authorfullhash}{a2c4d3643dbb5ce4680c8b106d72cc0e}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Il Nuovo Cimento}}
+      \field{journaltitleaddon}{{B}}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{Electromagnetism and Geodesics}
+      \field{volume}{51}
+      \field{year}{1967}
+      \field{dateera}{ce}
+      \field{pages}{555\bibrangedash 556}
+      \range{pages}{2}
+    \endentry
+    \entry{Eddington1921}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2693038413e48e3756c127fb9a6baebb}{%
+           family={Eddington},
+           familyi={E\bibinitperiod},
+           given={Arthur\bibnamedelima Stanley},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{fullhash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{bibnamehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{authorbibnamehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{authornamehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{authorfullhash}{2693038413e48e3756c127fb9a6baebb}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Proceedings of the Royal Society London}}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{title}{A Generalization of {W}eyl's Theory of the Electromagnetic and Gravitation fields}
+      \field{volume}{99}
+      \field{year}{1921}
+      \field{dateera}{ce}
+      \field{pages}{104\bibrangedash 121}
+      \range{pages}{18}
+    \endentry
+    \entry{Eddington1923}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2693038413e48e3756c127fb9a6baebb}{%
+           family={Eddington},
+           familyi={E\bibinitperiod},
+           given={Arthur\bibnamedelima Stanley},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {University Press}%
+      }
+      \strng{namehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{fullhash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{bibnamehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{authorbibnamehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{authornamehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{authorfullhash}{2693038413e48e3756c127fb9a6baebb}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{The Mathematical Theory of Relativity}
+      \field{year}{1923}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Eddington1925a}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2693038413e48e3756c127fb9a6baebb}{%
+           family={Eddington},
+           familyi={E\bibinitperiod},
+           given={Arthur\bibnamedelima Stanley},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=bd01514a5eea949399ffe675d448f68d}{%
+           family={Ostrowski},
+           familyi={O\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=cc922dc6299d8defe08d13442749a106}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{fullhash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{bibnamehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{authorbibnamehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{authornamehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{authorfullhash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{translatorbibnamehash}{46ff29ceb42011c65678c9664a9604df}
+      \strng{translatornamehash}{46ff29ceb42011c65678c9664a9604df}
+      \strng{translatorfullhash}{46ff29ceb42011c65678c9664a9604df}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{German translation of \cite{Eddington1923}}
+      \field{langid}{german}
+      \field{title}{Relativit{ä}tstheorie in mathematischer Behandlung}
+      \field{titleaddon}{Mit einem Anhang \citetitle{Einstein1925d} von Albert Einstein}
+      \field{year}{1925}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Einstein1918c}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\reprcpae{7}{10}}
+      \field{journaltitle}{Die Na\-tur\-wis\-sen\-schaf\-ten}
+      \field{langid}{german}
+      \field{title}{\rev{Weyl1918}}
+      \field{volume}{6}
+      \field{year}{1918}
+      \field{dateera}{ce}
+      \field{pages}{373}
+      \range{pages}{1}
+    \endentry
+    \entry{Einstein1921b}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\reprcpae{7}{52}}
+      \field{langid}{german}
+      \field{title}{Geometrie und Erfahrung}
+      \field{titleaddon}{Erweiterte Fassung des Festvortrages gehalten an der Preussischen Akademie der Wissenschaften zu Berlin am 27. Januar 1921}
+      \field{year}{1921}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Einstein1923c}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\reprcpae{14}{123}}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{112}
+      \field{title}{The Theory of the Affine field}
+      \field{volume}{2812}
+      \field{year}{1923}
+      \field{dateera}{ce}
+      \field{pages}{448\bibrangedash 449}
+      \range{pages}{2}
+    \endentry
+    \entry{Einstein1923d}{sb}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{extraname}{4}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\reprcpae{13}{425}}
+      \field{journaltitle}{Sit\-zungs\-be\-rich\-te der Preu{ß}ischen Akademie der Wissenschaften}
+      \field{journaltitleaddon}{Phy\-si\-ka\-li\-sch\hyp{}ma\-the\-ma\-tische Klas\-se}
+      \field{langid}{german}
+      \field{month}{2}
+      \field{title}{Zur allgemeinen Relativitätstheorie}
+      \field{year}{1923}
+      \field{dateera}{ce}
+      \field{pages}{32\bibrangedash 38\bibrangessep 76\bibrangedash 77}
+      \range{pages}{9}
+    \endentry
+    \entry{Einstein1924}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{extraname}{5}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\reprcpae{14}{321}}
+      \field{journaltitle}{Deutsche Literaturzeitung}
+      \field{langid}{german}
+      \field{title}{\rev{Elsbach1924}}
+      \field{volume}{45}
+      \field{year}{1924}
+      \field{dateera}{ce}
+      \field{pages}{1685\bibrangedash 1692}
+      \range{pages}{8}
+    \endentry
+    \entry{Einstein1925d}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=2693038413e48e3756c127fb9a6baebb}{%
+           family={Eddington},
+           familyi={E\bibinitperiod},
+           given={Arthur\bibnamedelima Stanley},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=bd01514a5eea949399ffe675d448f68d}{%
+           family={Ostrowski},
+           familyi={O\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=cc922dc6299d8defe08d13442749a106}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bookauthorbibnamehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{bookauthornamehash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{bookauthorfullhash}{2693038413e48e3756c127fb9a6baebb}
+      \strng{translatorbibnamehash}{46ff29ceb42011c65678c9664a9604df}
+      \strng{translatornamehash}{46ff29ceb42011c65678c9664a9604df}
+      \strng{translatorfullhash}{46ff29ceb42011c65678c9664a9604df}
+      \field{extraname}{6}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\reprcpae{14}{282}}
+      \field{booktitle}{Relativit{ä}tstheorie in mathematischer Behandlung}
+      \field{booktitleaddon}{Mit einem Anhang \citetitle{Einstein1925d} von Albert Einstein}
+      \strng{crossref}{Eddington1925a}
+      \field{langid}{german}
+      \field{title}{Eddingtons Theorie und Hamiltonsches Prinzip}
+      \field{year}{1925}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Einstein1925a}{sb}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{extraname}{7}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\reprcpae{15}{17}}
+      \field{day}{31}
+      \field{journaltitle}{Sit\-zungs\-be\-rich\-te der Preu{ß}ischen Akademie der Wissenschaften}
+      \field{journaltitleaddon}{Phy\-si\-ka\-li\-sch\hyp{}ma\-the\-ma\-tische Klas\-se}
+      \field{langid}{german}
+      \field{month}{5}
+      \field{title}{Einheitliche Feldtheorie von Gravitation und Elektrizität}
+      \field{year}{1925}
+      \field{dateera}{ce}
+      \field{pages}{414\bibrangedash 419}
+      \range{pages}{6}
+    \endentry
+    \entry{Einstein1926}{incollectionr}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=cd21ccf6705628d5593fc14b9fdbf048}{%
+           family={Garvin},
+           familyi={G\bibinitperiod},
+           given={James\bibnamedelima Louis},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {London}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Encyclopædia Britannica, Inc.}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{editorbibnamehash}{cd21ccf6705628d5593fc14b9fdbf048}
+      \strng{editornamehash}{cd21ccf6705628d5593fc14b9fdbf048}
+      \strng{editorfullhash}{cd21ccf6705628d5593fc14b9fdbf048}
+      \field{extraname}{8}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\reprcpae{15}{148}}
+      \field{booktitle}{Encyclopædia Britannica}
+      \field{edition}{13}
+      \field{langid}{english}
+      \field{title}{Space-Time}
+      \field{year}{1926}
+      \field{dateera}{ce}
+      \field{pages}{608\bibrangedash 609}
+      \range{pages}{2}
+    \endentry
+    \entry{Einstein1927a}{sb}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{extraname}{9}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sit\-zungs\-be\-rich\-te der Preu{ß}ischen Akademie der Wissenschaften}
+      \field{journaltitleaddon}{Phy\-si\-ka\-li\-sch\hyp{}ma\-the\-ma\-tische Klas\-se}
+      \field{langid}{german}
+      \field{month}{2}
+      \field{title}{Zu Kaluzas Theorie des Zusammenhanges von Gravitation und Elektrizität}
+      \field{titleaddon}{Erste und zweite Mitteilung}
+      \field{year}{1927}
+      \field{dateera}{ce}
+      \field{pages}{23\bibrangedash 25\bibrangessep 26\bibrangedash 30}
+      \range{pages}{8}
+    \endentry
+    \entry{Einstein1927b}{sb}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{extraname}{10}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sit\-zungs\-be\-rich\-te der Preu{ß}ischen Akademie der Wissenschaften}
+      \field{journaltitleaddon}{Phy\-si\-ka\-li\-sch\hyp{}ma\-the\-ma\-tische Klas\-se}
+      \field{langid}{german}
+      \field{month}{2}
+      \field{title}{Zu Kaluzas Theorie des Zusammenhanges von Gravitation und Elektrizität}
+      \field{titleaddon}{Zweite Mitteilung}
+      \field{year}{1927}
+      \field{dateera}{ce}
+      \field{pages}{26\bibrangedash 30}
+      \range{pages}{5}
+    \endentry
+    \entry{Einstein1928a}{sb}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{extraname}{11}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sit\-zungs\-be\-rich\-te der Preu{ß}ischen Akademie der Wissenschaften}
+      \field{journaltitleaddon}{Phy\-si\-ka\-li\-sch\hyp{}ma\-the\-ma\-tische Klas\-se}
+      \field{langid}{german}
+      \field{title}{Neue Möglichkeit für eine einheitliche Feldtheorie von Gravitation und Elektrizität}
+      \field{year}{1928}
+      \field{dateera}{ce}
+      \field{pages}{224\bibrangedash 227}
+      \range{pages}{4}
+    \endentry
+    \entry{Einstein1928d}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{extraname}{12}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Deutsche Literaturzeitung}
+      \field{langid}{german}
+      \field{number}{1}
+      \field{title}{\rev{Reichenbach1928}}
+      \field{volume}{49}
+      \field{year}{1928}
+      \field{dateera}{ce}
+      \field{pages}{19\bibrangedash 20}
+      \range{pages}{2}
+    \endentry
+    \entry{Einstein1928}{sb}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{extraname}{13}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sit\-zungs\-be\-rich\-te der Preu{ß}ischen Akademie der Wissenschaften}
+      \field{journaltitleaddon}{Phy\-si\-ka\-li\-sch\hyp{}ma\-the\-ma\-tische Klas\-se}
+      \field{langid}{german}
+      \field{title}{Riemanngeometrie mit Aufrechterhaltung des Begriffes des Fern-Parallelismus}
+      \field{year}{1928}
+      \field{dateera}{ce}
+      \field{pages}{217\bibrangedash 221}
+      \range{pages}{5}
+    \endentry
+    \entry{Einstein1929b}{sb}{}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{extraname}{14}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sit\-zungs\-be\-rich\-te der Preu{ß}ischen Akademie der Wissenschaften}
+      \field{journaltitleaddon}{Phy\-si\-ka\-li\-sch\hyp{}ma\-the\-ma\-tische Klas\-se}
+      \field{langid}{german}
+      \field{title}{Zur einheitlichen Feldtheorie}
+      \field{year}{1929}
+      \field{dateera}{ce}
+      \field{pages}{2\bibrangedash 7}
+      \range{pages}{6}
+    \endentry
+    \entry{CPAE}{book}{skipbib=true}
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \true{moreeditor}
+      \name{editor}{1}{}{%
+        {{hash=7786767ae8cfbb94931eac9831372fca}{%
+           family={Stachel},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Princeton}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{editorbibnamehash}{1a2af6bc5303664cc72a69e5e6822ef2}
+      \strng{editornamehash}{1a2af6bc5303664cc72a69e5e6822ef2}
+      \strng{editorfullhash}{1a2af6bc5303664cc72a69e5e6822ef2}
+      \field{extraname}{15}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{endyear}{}
+      \field{langid}{english}
+      \field{shorthand}{CPAE}
+      \field{title}{The Collected Papers of {A}lbert {E}instein}
+      \field{volumes}{15}
+      \field{year}{1987}
+      \true{enddateunknown}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Elsbach1924}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8bd7f452d0a229012855ac90d72b217e}{%
+           family={Elsbach},
+           familyi={E\bibinitperiod},
+           given={Alfred\bibnamedelima Coppel},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {de Gruyter}%
+      }
+      \strng{namehash}{8bd7f452d0a229012855ac90d72b217e}
+      \strng{fullhash}{8bd7f452d0a229012855ac90d72b217e}
+      \strng{bibnamehash}{8bd7f452d0a229012855ac90d72b217e}
+      \strng{authorbibnamehash}{8bd7f452d0a229012855ac90d72b217e}
+      \strng{authornamehash}{8bd7f452d0a229012855ac90d72b217e}
+      \strng{authorfullhash}{8bd7f452d0a229012855ac90d72b217e}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\reprcpae{14}{321}}
+      \field{langid}{german}
+      \field{subtitle}{Untersuchungen über das Verhältnis der modernen Erkenntnistheorie zur Relativitätstheorie}
+      \field{title}{{K}ant und {E}instein}
+      \field{year}{1924}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Friedman1983}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f1d3f37756c0c44c598929e728a13f39}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Princeton}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{f1d3f37756c0c44c598929e728a13f39}
+      \strng{fullhash}{f1d3f37756c0c44c598929e728a13f39}
+      \strng{bibnamehash}{f1d3f37756c0c44c598929e728a13f39}
+      \strng{authorbibnamehash}{f1d3f37756c0c44c598929e728a13f39}
+      \strng{authornamehash}{f1d3f37756c0c44c598929e728a13f39}
+      \strng{authorfullhash}{f1d3f37756c0c44c598929e728a13f39}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{subtitle}{Relativistic Physics and Philosophy of Science}
+      \field{title}{Foundations of Space-Time Theories}
+      \field{year}{1983}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Friedrichs1928}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3b5f5fb8dcd7532fd228d992995a4dff}{%
+           family={Friedrichs},
+           familyi={F\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{3b5f5fb8dcd7532fd228d992995a4dff}
+      \strng{fullhash}{3b5f5fb8dcd7532fd228d992995a4dff}
+      \strng{bibnamehash}{3b5f5fb8dcd7532fd228d992995a4dff}
+      \strng{authorbibnamehash}{3b5f5fb8dcd7532fd228d992995a4dff}
+      \strng{authornamehash}{3b5f5fb8dcd7532fd228d992995a4dff}
+      \strng{authorfullhash}{3b5f5fb8dcd7532fd228d992995a4dff}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematische Annalen}
+      \field{langid}{german}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Eine invariante Formulierung des Newtonschen Gravitationsgesetzes und des Grenzüberganges vom Einsteinschen zum Newtonschen Gesetz}
+      \field{volume}{98}
+      \field{year}{1928}
+      \field{dateera}{ce}
+      \field{pages}{566\bibrangedash 575}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/bf01451608
+      \endverb
+    \endentry
+    \entry{Goenner2004}{article}{}
+      \name{author}{1}{}{%
+        {{hash=eefda045c9e0f10c847d57da610e873d}{%
+           family={Goenner},
+           familyi={G\bibinitperiod},
+           given={Hubert\bibnamedelimb F.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{eefda045c9e0f10c847d57da610e873d}
+      \strng{fullhash}{eefda045c9e0f10c847d57da610e873d}
+      \strng{bibnamehash}{eefda045c9e0f10c847d57da610e873d}
+      \strng{authorbibnamehash}{eefda045c9e0f10c847d57da610e873d}
+      \strng{authornamehash}{eefda045c9e0f10c847d57da610e873d}
+      \strng{authorfullhash}{eefda045c9e0f10c847d57da610e873d}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Living Reviews in Relativity}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{On the History of Unified Field Theories}
+      \field{volume}{7}
+      \field{year}{2004}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Havas1964}{article}{}
+      \name{author}{1}{}{%
+        {{hash=17ffad8ceb8334730c1e04d2e7694fb4}{%
+           family={Havas},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{17ffad8ceb8334730c1e04d2e7694fb4}
+      \strng{fullhash}{17ffad8ceb8334730c1e04d2e7694fb4}
+      \strng{bibnamehash}{17ffad8ceb8334730c1e04d2e7694fb4}
+      \strng{authorbibnamehash}{17ffad8ceb8334730c1e04d2e7694fb4}
+      \strng{authornamehash}{17ffad8ceb8334730c1e04d2e7694fb4}
+      \strng{authorfullhash}{17ffad8ceb8334730c1e04d2e7694fb4}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reviews of Modern Physics}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Four-dimensional Formulations of Newtonian Mechanics and Their Relation to the Special and the General Theory of Relativity}
+      \field{volume}{36}
+      \field{year}{1964}
+      \field{dateera}{ce}
+      \field{pages}{938\bibrangedash 965}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1103/revmodphys.36.938
+      \endverb
+      \verb{file}
+      \verb :Havas, Peter - Four Dimensional Formulations of Newtonian Mechanics and Their Relation to the Special and the General Theory of Relativity.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Hecht1982}{article}{}
+      \name{author}{2}{}{%
+        {{hash=80944a15081e0e369b124f21286da4bc}{%
+           family={Hecht},
+           familyi={H\bibinitperiod},
+           given={Hartmut},
+           giveni={H\bibinitperiod}}}%
+        {{hash=96e344540c448669b20aa50b6d86b476}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{26c2684ed94e6099399e9e6d2ba4b8a8}
+      \strng{fullhash}{26c2684ed94e6099399e9e6d2ba4b8a8}
+      \strng{bibnamehash}{26c2684ed94e6099399e9e6d2ba4b8a8}
+      \strng{authorbibnamehash}{26c2684ed94e6099399e9e6d2ba4b8a8}
+      \strng{authornamehash}{26c2684ed94e6099399e9e6d2ba4b8a8}
+      \strng{authorfullhash}{26c2684ed94e6099399e9e6d2ba4b8a8}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Deutsche Zeitschrift für Philosophie}
+      \field{langid}{german}
+      \field{title}{Die Berufung Hans {Reichenbach}s an die Berliner Universität}
+      \field{volume}{30}
+      \field{year}{1982}
+      \field{dateera}{ce}
+      \field{pages}{651\bibrangedash 662}
+      \range{pages}{12}
+    \endentry
+    \entry{Infeld1928}{article}{}
+      \name{author}{1}{}{%
+        {{hash=24b92d92c3935b8eebd8ba60e214e095}{%
+           family={Infeld},
+           familyi={I\bibinitperiod},
+           given={Leopold},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{24b92d92c3935b8eebd8ba60e214e095}
+      \strng{fullhash}{24b92d92c3935b8eebd8ba60e214e095}
+      \strng{bibnamehash}{24b92d92c3935b8eebd8ba60e214e095}
+      \strng{authorbibnamehash}{24b92d92c3935b8eebd8ba60e214e095}
+      \strng{authornamehash}{24b92d92c3935b8eebd8ba60e214e095}
+      \strng{authorfullhash}{24b92d92c3935b8eebd8ba60e214e095}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeit\-schrift für Phy\-sik}
+      \field{langid}{german}
+      \field{number}{1}
+      \field{title}{Zum Problem einer einheitlichen Feldtheorie von Elektrizität und Gravitation}
+      \field{volume}{50}
+      \field{year}{1928}
+      \field{dateera}{ce}
+      \field{pages}{137\bibrangedash 152}
+      \range{pages}{16}
+    \endentry
+    \entry{Infeld1928a}{article}{}
+      \name{author}{1}{}{%
+        {{hash=24b92d92c3935b8eebd8ba60e214e095}{%
+           family={Infeld},
+           familyi={I\bibinitperiod},
+           given={Leopold},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{24b92d92c3935b8eebd8ba60e214e095}
+      \strng{fullhash}{24b92d92c3935b8eebd8ba60e214e095}
+      \strng{bibnamehash}{24b92d92c3935b8eebd8ba60e214e095}
+      \strng{authorbibnamehash}{24b92d92c3935b8eebd8ba60e214e095}
+      \strng{authornamehash}{24b92d92c3935b8eebd8ba60e214e095}
+      \strng{authorfullhash}{24b92d92c3935b8eebd8ba60e214e095}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Phy\-si\-ka\-li\-sche Zeit\-schrift}
+      \field{langid}{german}
+      \field{title}{Zur Feldtheorie von Elektrizität und Gravitation}
+      \field{volume}{29}
+      \field{year}{1928}
+      \field{dateera}{ce}
+      \field{pages}{145\bibrangedash 147}
+      \range{pages}{3}
+      \verb{file}
+      \verb :Infeld, Leopold - Zur Feldtheorie Von Elektrizitat Und Gravitation.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Lehmkuhl2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1cc454abb449b7c89fe79cdf2c17ca31}{%
+           family={Lehmkuhl},
+           familyi={L\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{1cc454abb449b7c89fe79cdf2c17ca31}
+      \strng{fullhash}{1cc454abb449b7c89fe79cdf2c17ca31}
+      \strng{bibnamehash}{1cc454abb449b7c89fe79cdf2c17ca31}
+      \strng{authorbibnamehash}{1cc454abb449b7c89fe79cdf2c17ca31}
+      \strng{authornamehash}{1cc454abb449b7c89fe79cdf2c17ca31}
+      \strng{authorfullhash}{1cc454abb449b7c89fe79cdf2c17ca31}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in History and Philosophy of Science. {P}art {B}: {S}tudies in History and Philosophy of Mo\-dern Phy\-sics}
+      \field{langid}{english}
+      \field{title}{Why {E}instein Did Not Believe That General Relativity Geometrizes Gravity}
+      \field{volume}{46}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{316\bibrangedash 326}
+      \range{pages}{11}
+    \endentry
+    \entry{Malament2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=22ff9f24208bdb5ce3020c45dc9dd6e4}{%
+           family={Malament},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Chicago}%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Theuniversity of Chicago Press}%
+      }
+      \strng{namehash}{22ff9f24208bdb5ce3020c45dc9dd6e4}
+      \strng{fullhash}{22ff9f24208bdb5ce3020c45dc9dd6e4}
+      \strng{bibnamehash}{22ff9f24208bdb5ce3020c45dc9dd6e4}
+      \strng{authorbibnamehash}{22ff9f24208bdb5ce3020c45dc9dd6e4}
+      \strng{authornamehash}{22ff9f24208bdb5ce3020c45dc9dd6e4}
+      \strng{authorfullhash}{22ff9f24208bdb5ce3020c45dc9dd6e4}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Topics in the Foundations of General Relativity and Newtonian Gravitation Theory}
+      \field{year}{2012}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Meyerson1925}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7b6607e6cf1818066d3ff7af9843ba6d}{%
+           family={Meyerson},
+           familyi={M\bibinitperiod},
+           given={Émile},
+           giveni={É\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Payot}%
+      }
+      \strng{namehash}{7b6607e6cf1818066d3ff7af9843ba6d}
+      \strng{fullhash}{7b6607e6cf1818066d3ff7af9843ba6d}
+      \strng{bibnamehash}{7b6607e6cf1818066d3ff7af9843ba6d}
+      \strng{authorbibnamehash}{7b6607e6cf1818066d3ff7af9843ba6d}
+      \strng{authornamehash}{7b6607e6cf1818066d3ff7af9843ba6d}
+      \strng{authorfullhash}{7b6607e6cf1818066d3ff7af9843ba6d}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{La déduction relativiste}
+      \field{year}{1925}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb :Meyerson, Emile - La deduction relativiste.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Misner1973}{book}{}
+      \name{author}{3}{}{%
+        {{hash=05c5e0e62bd36ef32b9a719149851fdc}{%
+           family={Misner},
+           familyi={M\bibinitperiod},
+           given={Charles\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=09e928bef0c66042b777c23f5eb91c00}{%
+           family={Thorne},
+           familyi={T\bibinitperiod},
+           given={Kip\bibnamedelima S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=656f2ece652560737fefbeef9b753049}{%
+           family={Wheeler},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima Archibald},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{2}{%
+        {W.H. Freeman}%
+        {Company}%
+      }
+      \strng{namehash}{2d375dc68cdd744e95aa1d2fbe386ef4}
+      \strng{fullhash}{2d375dc68cdd744e95aa1d2fbe386ef4}
+      \strng{bibnamehash}{2d375dc68cdd744e95aa1d2fbe386ef4}
+      \strng{authorbibnamehash}{2d375dc68cdd744e95aa1d2fbe386ef4}
+      \strng{authornamehash}{2d375dc68cdd744e95aa1d2fbe386ef4}
+      \strng{authorfullhash}{2d375dc68cdd744e95aa1d2fbe386ef4}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Gravitation}
+      \field{year}{1973}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Pauli1921a}{book}{}
+      \name{author}{1}{}{%
+        {{hash=092601d1e9e8519accb07c37a0611492}{%
+           family={Pauli},
+           familyi={P\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leipzig}%
+      }
+      \list{publisher}{1}{%
+        {Teubner}%
+      }
+      \strng{namehash}{092601d1e9e8519accb07c37a0611492}
+      \strng{fullhash}{092601d1e9e8519accb07c37a0611492}
+      \strng{bibnamehash}{092601d1e9e8519accb07c37a0611492}
+      \strng{authorbibnamehash}{092601d1e9e8519accb07c37a0611492}
+      \strng{authornamehash}{092601d1e9e8519accb07c37a0611492}
+      \strng{authorfullhash}{092601d1e9e8519accb07c37a0611492}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{title}{Relativitätstheorie}
+      \field{year}{1921}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb :Pauli, Wolfgang - Relativit\"{a}stheorie (Book).pdf:PDF
+      \endverb
+    \endentry
+    \entry{Pauli1926}{article}{}
+      \name{author}{1}{}{%
+        {{hash=092601d1e9e8519accb07c37a0611492}{%
+           family={Pauli},
+           familyi={P\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{092601d1e9e8519accb07c37a0611492}
+      \strng{fullhash}{092601d1e9e8519accb07c37a0611492}
+      \strng{bibnamehash}{092601d1e9e8519accb07c37a0611492}
+      \strng{authorbibnamehash}{092601d1e9e8519accb07c37a0611492}
+      \strng{authornamehash}{092601d1e9e8519accb07c37a0611492}
+      \strng{authorfullhash}{092601d1e9e8519accb07c37a0611492}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Die Na\-tur\-wis\-sen\-schaf\-ten}
+      \field{langid}{german}
+      \field{title}{\rev{Eddington1923}}
+      \field{volume}{13}
+      \field{year}{1926}
+      \field{dateera}{ce}
+      \field{pages}{273\bibrangedash 274}
+      \range{pages}{2}
+      \verb{file}
+      \verb :Pauli, Wolfgang - Rev of Eddington 1925.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Reichenbach1921}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ad994bf69d3fd0b889b84fe3fcff8237}{%
+           family={{Reichenbach}},
+           familyi={R\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{fullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{bibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorbibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authornamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorfullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\repr{Reichenbach1977}{\VP{3}{375--406}}}
+      \field{journaltitle}{Logos}
+      \field{langid}{german}
+      \field{number}{10}
+      \field{subtitle}{Eine kritische Untersuchung}
+      \field{title}{Der gegenwärtige Stand der Relativitätsdiskussion}
+      \field{volume}{22}
+      \field{year}{1922}
+      \field{dateera}{ce}
+      \field{pages}{316\bibrangedash 378}
+      \range{pages}{63}
+    \endentry
+    \entry{Reichenbach1924}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ad994bf69d3fd0b889b84fe3fcff8237}{%
+           family={{Reichenbach}},
+           familyi={R\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vieweg}%
+      }
+      \list{publisher}{1}{%
+        {Braunschweig}%
+      }
+      \strng{namehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{fullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{bibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorbibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authornamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorfullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\repr{Reichenbach1977}{\VP{3}{3--171}}}
+      \field{langid}{german}
+      \field{title}{Axiomatik der relativistischen Raum-Zeit-Lehre}
+      \field{year}{1924}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Reichenbach1926d}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ad994bf69d3fd0b889b84fe3fcff8237}{%
+           family={{Reichenbach}},
+           familyi={R\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{fullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{bibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorbibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authornamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorfullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \field{extraname}{3}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Verhandlungen der Deutschen Physikalischen Gesellschaft}
+      \field{langid}{german}
+      \field{title}{Die {W}eylsche Erweiterung des Riemannschen Raumes und die geometrische Deutung der Elektrizität}
+      \field{volume}{7}
+      \field{year}{1926}
+      \field{dateera}{ce}
+      \field{pages}{25}
+      \range{pages}{1}
+    \endentry
+    \entry{Reichenbach1928}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ad994bf69d3fd0b889b84fe3fcff8237}{%
+           family={{Reichenbach}},
+           familyi={R\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Berlin}%
+        {Leipzig}%
+      }
+      \list{publisher}{1}{%
+        {Walter de Gruyter}%
+      }
+      \strng{namehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{fullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{bibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorbibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authornamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorfullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \field{extraname}{4}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\repr{Reichenbach1977}{\V{2}}}
+      \field{langid}{german}
+      \field{title}{Philosophie der Raum-Zeit-Lehre}
+      \field{year}{1928}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Reichenbach1929}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ad994bf69d3fd0b889b84fe3fcff8237}{%
+           family={{Reichenbach}},
+           familyi={R\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=2dbcc9292058929452d300f632adc6b4}{%
+           family={Geiger},
+           familyi={G\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c03135463bd4693ec8e2dd8856d864e4}{%
+           family={Scheel},
+           familyi={S\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{fullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{bibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorbibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authornamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorfullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{editorbibnamehash}{79cac217f98b2b9dc8dadc06c735df15}
+      \strng{editornamehash}{79cac217f98b2b9dc8dadc06c735df15}
+      \strng{editorfullhash}{79cac217f98b2b9dc8dadc06c735df15}
+      \field{extraname}{5}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbuch der Physik}
+      \field{edition}{2}
+      \field{langid}{german}
+      \field{maintitle}{Ziele und Wege der physikalischen Erkenntnis}
+      \field{title}{Allgemeine Grundlagen der Physik}
+      \field{volume}{4}
+      \field{year}{1929}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 80}
+      \range{pages}{80}
+    \endentry
+    \entry{Reichenbach1958}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ad994bf69d3fd0b889b84fe3fcff8237}{%
+           family={{Reichenbach}},
+           familyi={R\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=4de9129221555b3f2da3a3d7268d0666}{%
+           family={{Reichenbach}},
+           familyi={R\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=4de9129221555b3f2da3a3d7268d0666}{%
+           family={{Reichenbach}},
+           familyi={R\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=da155cf8e7674bb5e88b4d6568998718}{%
+           family={Freund},
+           familyi={F\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Dover Publ.}%
+      }
+      \strng{namehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{fullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{bibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorbibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authornamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorfullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{editorbibnamehash}{4de9129221555b3f2da3a3d7268d0666}
+      \strng{editornamehash}{4de9129221555b3f2da3a3d7268d0666}
+      \strng{editorfullhash}{4de9129221555b3f2da3a3d7268d0666}
+      \strng{translatorbibnamehash}{77b5344f71dd5fe57e7234e9ca984af9}
+      \strng{translatornamehash}{77b5344f71dd5fe57e7234e9ca984af9}
+      \strng{translatorfullhash}{77b5344f71dd5fe57e7234e9ca984af9}
+      \field{extraname}{6}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{The Philosophy of Space and Time}
+      \field{year}{1958}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Reichenbach1977}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ad994bf69d3fd0b889b84fe3fcff8237}{%
+           family={{Reichenbach}},
+           familyi={R\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=1b4696d3b2b6b8fed946ff7e50cf9522}{%
+           family={Kamlah},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4de9129221555b3f2da3a3d7268d0666}{%
+           family={{Reichenbach}},
+           familyi={R\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Braunschweig}%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Vieweg}%
+      }
+      \strng{namehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{fullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{bibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorbibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authornamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{authorfullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
+      \strng{editorbibnamehash}{805a018f72e8b12bdfa90378a12acb95}
+      \strng{editornamehash}{805a018f72e8b12bdfa90378a12acb95}
+      \strng{editorfullhash}{805a018f72e8b12bdfa90378a12acb95}
+      \field{extraname}{7}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{title}{Gesammelte Werke in 9 Bänden}
+      \field{year}{1977}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Reichenbaecher1925}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5fff5318bfff888b4ccfd56f2ad48e68}{%
+           family={Reichenbächer},
+           familyi={R\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{5fff5318bfff888b4ccfd56f2ad48e68}
+      \strng{fullhash}{5fff5318bfff888b4ccfd56f2ad48e68}
+      \strng{bibnamehash}{5fff5318bfff888b4ccfd56f2ad48e68}
+      \strng{authorbibnamehash}{5fff5318bfff888b4ccfd56f2ad48e68}
+      \strng{authornamehash}{5fff5318bfff888b4ccfd56f2ad48e68}
+      \strng{authorfullhash}{5fff5318bfff888b4ccfd56f2ad48e68}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0044-3328}
+      \field{journaltitle}{Zeitschrift für Physik}
+      \field{langid}{german}
+      \field{number}{1}
+      \field{title}{Die mechanischen Gleichungen im elektromagnetischen Felde}
+      \field{volume}{33}
+      \field{year}{1925}
+      \field{dateera}{ce}
+      \field{pages}{916\bibrangedash 932}
+      \range{pages}{17}
+    \endentry
+    \entry{Rosen1940}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fc8bb495c63cdab3ba6923db2097e4c7}{%
+           family={Rosen},
+           familyi={R\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc8bb495c63cdab3ba6923db2097e4c7}
+      \strng{fullhash}{fc8bb495c63cdab3ba6923db2097e4c7}
+      \strng{bibnamehash}{fc8bb495c63cdab3ba6923db2097e4c7}
+      \strng{authorbibnamehash}{fc8bb495c63cdab3ba6923db2097e4c7}
+      \strng{authornamehash}{fc8bb495c63cdab3ba6923db2097e4c7}
+      \strng{authorfullhash}{fc8bb495c63cdab3ba6923db2097e4c7}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{General Relativity and Flat Space}
+      \field{titleaddon}{I}
+      \field{volume}{57}
+      \field{year}{1940}
+      \field{dateera}{ce}
+      \field{pages}{147\bibrangedash 150}
+      \range{pages}{4}
+    \endentry
+    \entry{Rosen1940a}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fc8bb495c63cdab3ba6923db2097e4c7}{%
+           family={Rosen},
+           familyi={R\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc8bb495c63cdab3ba6923db2097e4c7}
+      \strng{fullhash}{fc8bb495c63cdab3ba6923db2097e4c7}
+      \strng{bibnamehash}{fc8bb495c63cdab3ba6923db2097e4c7}
+      \strng{authorbibnamehash}{fc8bb495c63cdab3ba6923db2097e4c7}
+      \strng{authornamehash}{fc8bb495c63cdab3ba6923db2097e4c7}
+      \strng{authorfullhash}{fc8bb495c63cdab3ba6923db2097e4c7}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{General Relativity and Flat Space}
+      \field{titleaddon}{II}
+      \field{volume}{57}
+      \field{year}{1940}
+      \field{dateera}{ce}
+      \field{pages}{150\bibrangedash 153}
+      \range{pages}{4}
+    \endentry
+    \entry{Ryckman1995}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1bd46d0bafee85d8802ea4de6667d24a}{%
+           family={Ryckman},
+           familyi={R\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bd46d0bafee85d8802ea4de6667d24a}
+      \strng{fullhash}{1bd46d0bafee85d8802ea4de6667d24a}
+      \strng{bibnamehash}{1bd46d0bafee85d8802ea4de6667d24a}
+      \strng{authorbibnamehash}{1bd46d0bafee85d8802ea4de6667d24a}
+      \strng{authornamehash}{1bd46d0bafee85d8802ea4de6667d24a}
+      \strng{authorfullhash}{1bd46d0bafee85d8802ea4de6667d24a}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in History and Philosophy of Science}
+      \field{langid}{english}
+      \field{number}{6}
+      \field{title}{{W}eyl, {Reichenbach} and the Epistemology of Geometry}
+      \field{volume}{25}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{831\bibrangedash 870}
+      \range{pages}{40}
+      \verb{file}
+      \verb :Ryckman, Thomas - Weyl, Reichenbach and the Epistemology of Geometry (1).pdf:PDF
+      \endverb
+    \endentry
+    \entry{Ryckman2005}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1bd46d0bafee85d8802ea4de6667d24a}{%
+           family={Ryckman},
+           familyi={R\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{1bd46d0bafee85d8802ea4de6667d24a}
+      \strng{fullhash}{1bd46d0bafee85d8802ea4de6667d24a}
+      \strng{bibnamehash}{1bd46d0bafee85d8802ea4de6667d24a}
+      \strng{authorbibnamehash}{1bd46d0bafee85d8802ea4de6667d24a}
+      \strng{authornamehash}{1bd46d0bafee85d8802ea4de6667d24a}
+      \strng{authorfullhash}{1bd46d0bafee85d8802ea4de6667d24a}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{subtitle}{Philosophy in Physics 1915-1925}
+      \field{title}{The Reign of Relativity}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb :Ryckman, Thomas - The Reign of Relativity. Philosophy in Physics 1915-1925.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Sauer2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=9ce9432734126b9056f1550d20a9d7ec}{%
+           family={Sauer},
+           familyi={S\bibinitperiod},
+           given={Tilman},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b7619ff4bf487cbc4cf6e60d09c28613}{%
+           family={Janssen},
+           familyi={J\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b6f66ae24e31c177db5948856c8fdaf4}{%
+           family={Lehner},
+           familyi={L\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{9ce9432734126b9056f1550d20a9d7ec}
+      \strng{fullhash}{9ce9432734126b9056f1550d20a9d7ec}
+      \strng{bibnamehash}{9ce9432734126b9056f1550d20a9d7ec}
+      \strng{authorbibnamehash}{9ce9432734126b9056f1550d20a9d7ec}
+      \strng{authornamehash}{9ce9432734126b9056f1550d20a9d7ec}
+      \strng{authorfullhash}{9ce9432734126b9056f1550d20a9d7ec}
+      \strng{editorbibnamehash}{801f0e3a514879a46d8724576ecbd0d7}
+      \strng{editornamehash}{801f0e3a514879a46d8724576ecbd0d7}
+      \strng{editorfullhash}{801f0e3a514879a46d8724576ecbd0d7}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Cambridge} Companion to {E}instein}
+      \field{langid}{english}
+      \field{title}{{E}instein's Unified Field Theory Program}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{281\bibrangedash 305}
+      \range{pages}{25}
+      \verb{file}
+      \verb :Sauer, Tilman - Einsteins Unified field Theory Program.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Scholz1994}{incollectionr}{}
+      \name{author}{1}{}{%
+        {{hash=c7baf8fcf9a9ea3161009da1a5f1cf3c}{%
+           family={Scholz},
+           familyi={S\bibinitperiod},
+           given={Erhard},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=3d80a1cc61cabd84a97b74bca9c49b95}{%
+           family={Chikara},
+           familyi={C\bibinitperiod},
+           given={Saski},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fc51c6f7c76a8528ffaf8a5eee8ccf76}{%
+           family={Mitsuo},
+           familyi={M\bibinitperiod},
+           given={Sugiura},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c7660c494d85ea68d6df11aa0adf64f5}{%
+           family={Dauben},
+           familyi={D\bibinitperiod},
+           given={Joseph\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Basel}%
+      }
+      \list{publisher}{1}{%
+        {Birkhäuser}%
+      }
+      \strng{namehash}{c7baf8fcf9a9ea3161009da1a5f1cf3c}
+      \strng{fullhash}{c7baf8fcf9a9ea3161009da1a5f1cf3c}
+      \strng{bibnamehash}{c7baf8fcf9a9ea3161009da1a5f1cf3c}
+      \strng{authorbibnamehash}{c7baf8fcf9a9ea3161009da1a5f1cf3c}
+      \strng{authornamehash}{c7baf8fcf9a9ea3161009da1a5f1cf3c}
+      \strng{authorfullhash}{c7baf8fcf9a9ea3161009da1a5f1cf3c}
+      \strng{editorbibnamehash}{58ead3ff204d3323f62e897db75d76f4}
+      \strng{editornamehash}{58ead3ff204d3323f62e897db75d76f4}
+      \strng{editorfullhash}{58ead3ff204d3323f62e897db75d76f4}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Intersection of History and Mathematics}
+      \field{langid}{english}
+      \field{title}{Hermann {W}eyl's Contributions to Geometry, 1917-b -1923}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{pages}{203\bibrangedash 229}
+      \range{pages}{27}
+    \endentry
+    \entry{Scholz2008}{incollectionr}{}
+      \name{author}{1}{}{%
+        {{hash=c7baf8fcf9a9ea3161009da1a5f1cf3c}{%
+           family={Scholz},
+           familyi={S\bibinitperiod},
+           given={Erhard},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a75d662b8f902e96d0b40548502f7a1e}{%
+           family={Rowe},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Birkhäuser}%
+      }
+      \list{publisher}{1}{%
+        {Basel}%
+      }
+      \strng{namehash}{c7baf8fcf9a9ea3161009da1a5f1cf3c}
+      \strng{fullhash}{c7baf8fcf9a9ea3161009da1a5f1cf3c}
+      \strng{bibnamehash}{c7baf8fcf9a9ea3161009da1a5f1cf3c}
+      \strng{authorbibnamehash}{c7baf8fcf9a9ea3161009da1a5f1cf3c}
+      \strng{authornamehash}{c7baf8fcf9a9ea3161009da1a5f1cf3c}
+      \strng{authorfullhash}{c7baf8fcf9a9ea3161009da1a5f1cf3c}
+      \strng{editorbibnamehash}{a75d662b8f902e96d0b40548502f7a1e}
+      \strng{editornamehash}{a75d662b8f902e96d0b40548502f7a1e}
+      \strng{editorfullhash}{a75d662b8f902e96d0b40548502f7a1e}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{to appear}
+      \field{booksubtitle}{Proceedings Mainz Conference September 2008}
+      \field{booktitle}{Beyond {E}instein}
+      \field{langid}{english}
+      \field{title}{{W}eyl Geometry in Late 20th Century Physics}
+      \field{year}{2008}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Schouten1922a}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}{%
+           family={Schouten},
+           familyi={S\bibinitperiod},
+           given={Jan\bibnamedelima Arnoldus},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{fullhash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{bibnamehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{authorbibnamehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{authornamehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{authorfullhash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematische Zeitschrift}
+      \field{langid}{german}
+      \field{title}{Nachtrag zur Arbeit \citetitleb{Schouten1922}}
+      \field{volume}{15}
+      \field{year}{1922}
+      \field{dateera}{ce}
+      \field{pages}{168}
+      \range{pages}{1}
+    \endentry
+    \entry{Schouten1922}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}{%
+           family={Schouten},
+           familyi={S\bibinitperiod},
+           given={Jan\bibnamedelima Arnoldus},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{fullhash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{bibnamehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{authorbibnamehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{authornamehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{authorfullhash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematische Zeitschrift}
+      \field{langid}{german}
+      \field{title}{Über die verschiedenen Arten der Übertragung in einer {$n$}-dimensionalen Mannigfaltigkeit, die einer Differentialgeometrie zugrundegelegt werden kann}
+      \field{volume}{13}
+      \field{year}{1922}
+      \field{dateera}{ce}
+      \field{pages}{56\bibrangedash 81}
+      \range{pages}{26}
+    \endentry
+    \entry{Schouten1923}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}{%
+           family={Schouten},
+           familyi={S\bibinitperiod},
+           given={Jan\bibnamedelima Arnoldus},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{fullhash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{bibnamehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{authorbibnamehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{authornamehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{authorfullhash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematische Zeitschrift}
+      \field{langid}{german}
+      \field{number}{1}
+      \field{title}{Über die Einordnung der Affingeometrie in die Theorie der höheren Übertragungen}
+      \field{volume}{17}
+      \field{year}{1923}
+      \field{dateera}{ce}
+      \field{pages}{183\bibrangedash 188}
+      \range{pages}{6}
+    \endentry
+    \entry{Schouten1924}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}{%
+           family={Schouten},
+           familyi={S\bibinitperiod},
+           given={Jan\bibnamedelima Arnoldus},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{fullhash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{bibnamehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{authorbibnamehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{authornamehash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \strng{authorfullhash}{c3fa0c5f1d0ce4ff8d4a29fa9f9b5622}
+      \field{extraname}{4}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{V}erhandelingen de {K}on\-ink\-lijke Aka\-de\-mie van {W}etenschappen te {A}msterdam}
+      \field{langid}{english}
+      \field{title}{On a Non-Symmetrical Affine field Theory}
+      \field{volume}{26}
+      \field{year}{1924}
+      \field{dateera}{ce}
+      \field{pages}{850\bibrangedash 857}
+      \range{pages}{8}
+    \endentry
+    \entry{Stachel2007}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=7786767ae8cfbb94931eac9831372fca}{%
+           family={Stachel},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \true{moreeditor}
+      \name{editor}{1}{}{%
+        {{hash=ff10b2c1288568bd4d8e1bfbc86bfd8b}{%
+           family={Renn},
+           familyi={R\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{7786767ae8cfbb94931eac9831372fca}
+      \strng{fullhash}{7786767ae8cfbb94931eac9831372fca}
+      \strng{bibnamehash}{7786767ae8cfbb94931eac9831372fca}
+      \strng{authorbibnamehash}{7786767ae8cfbb94931eac9831372fca}
+      \strng{authornamehash}{7786767ae8cfbb94931eac9831372fca}
+      \strng{authorfullhash}{7786767ae8cfbb94931eac9831372fca}
+      \strng{editorbibnamehash}{450e083f98ec65e35e799272827f294a}
+      \strng{editornamehash}{450e083f98ec65e35e799272827f294a}
+      \strng{editorfullhash}{450e083f98ec65e35e799272827f294a}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Genesis of General Relativity}
+      \field{langid}{english}
+      \field{title}{The Story of Newstein or Is Gravity Just Another Pretty Force?}
+      \field{volumes}{4}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{1962\bibrangedash 2000}
+      \range{pages}{39}
+      \verb{file}
+      \verb : Renn, J"{u}rgen \& others (ed.) - The Genesis of General Relativity.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Vizgin1994}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d4389d7a9f0756c88bb895e84e27d248}{%
+           family={Vizgin},
+           familyi={V\bibinitperiod},
+           given={Vladimir\bibnamedelima Pavlovich},
+           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=5ed6fabd88047cf213101b8fc5898396}{%
+           family={Barbour},
+           familyi={B\bibinitperiod},
+           given={Julian\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{3}{%
+        {Boston}%
+        {Basel}%
+        {Stuttgart}%
+      }
+      \list{publisher}{1}{%
+        {Birkhäuser}%
+      }
+      \strng{namehash}{d4389d7a9f0756c88bb895e84e27d248}
+      \strng{fullhash}{d4389d7a9f0756c88bb895e84e27d248}
+      \strng{bibnamehash}{d4389d7a9f0756c88bb895e84e27d248}
+      \strng{authorbibnamehash}{d4389d7a9f0756c88bb895e84e27d248}
+      \strng{authornamehash}{d4389d7a9f0756c88bb895e84e27d248}
+      \strng{authorfullhash}{d4389d7a9f0756c88bb895e84e27d248}
+      \strng{translatorbibnamehash}{5ed6fabd88047cf213101b8fc5898396}
+      \strng{translatornamehash}{5ed6fabd88047cf213101b8fc5898396}
+      \strng{translatorfullhash}{5ed6fabd88047cf213101b8fc5898396}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Unified Field Theories in the first Third of the 20th Century}
+      \field{year}{1994}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Weyl1918a}{sb}{}
+      \name{author}{1}{}{%
+        {{hash=53a04b0452e82d11dbbb27d1587aac8a}{%
+           family={Weyl},
+           familyi={W\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{fullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{bibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorbibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authornamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorfullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\reprvd{Weyl1968}{2}{31}}
+      \field{journaltitle}{Sit\-zungs\-be\-rich\-te der Preu{ß}ischen Akademie der Wissenschaften}
+      \field{langid}{german}
+      \field{month}{5}
+      \field{title}{Gravitation und Elektrizität}
+      \field{year}{1918}
+      \field{dateera}{ce}
+      \field{pages}{465\bibrangedash 480}
+      \range{pages}{16}
+    \endentry
+    \entry{Weyl1918}{book}{}
+      \name{author}{1}{}{%
+        {{hash=53a04b0452e82d11dbbb27d1587aac8a}{%
+           family={Weyl},
+           familyi={W\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{fullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{bibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorbibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authornamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorfullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{month}{3}
+      \field{subtitle}{Vorlesungen über allgemeine Relativitätstheorie}
+      \field{title}{Raum--Zeit--Materie}
+      \field{year}{1918}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Weyl1918b}{article}{}
+      \name{author}{1}{}{%
+        {{hash=53a04b0452e82d11dbbb27d1587aac8a}{%
+           family={Weyl},
+           familyi={W\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{fullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{bibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorbibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authornamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorfullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \field{extraname}{3}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\reprvd{Weyl1968}{2}{30}}
+      \field{journaltitle}{Mathematische Zeitschrift}
+      \field{langid}{german}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{Reine Infinitesimalgeometrie}
+      \field{volume}{2}
+      \field{year}{1918}
+      \field{dateera}{ce}
+      \field{pages}{384\bibrangedash 411}
+      \range{pages}{28}
+    \endentry
+    \entry{Weyl1919a}{article}{}
+      \name{author}{1}{}{%
+        {{hash=53a04b0452e82d11dbbb27d1587aac8a}{%
+           family={Weyl},
+           familyi={W\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{fullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{bibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorbibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authornamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorfullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \field{extraname}{4}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\reprvd{Weyl1968}{2}{34}}
+      \field{journaltitle}{An\-na\-len der Phy\-sik}
+      \field{langid}{german}
+      \field{month}{1}
+      \field{series}{4}
+      \field{title}{Eine neue Erweiterung der Relativitätstheorie}
+      \field{volume}{59}
+      \field{year}{1919}
+      \field{dateera}{ce}
+      \field{pages}{101\bibrangedash 133}
+      \range{pages}{33}
+    \endentry
+    \entry{Weyl1921}{book}{}
+      \name{author}{1}{}{%
+        {{hash=53a04b0452e82d11dbbb27d1587aac8a}{%
+           family={Weyl},
+           familyi={W\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{fullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{bibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorbibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authornamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorfullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \field{extraname}{5}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{langid}{german}
+      \field{subtitle}{Vorlesungen über allgemeine Relativitätstheorie}
+      \field{title}{Raum--Zeit--Materie}
+      \field{year}{1921}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Weyl1921e}{article}{}
+      \name{author}{1}{}{%
+        {{hash=53a04b0452e82d11dbbb27d1587aac8a}{%
+           family={Weyl},
+           familyi={W\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{fullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{bibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorbibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authornamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorfullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \field{extraname}{6}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\reprvd{Weyl1968}{2}{46}}
+      \field{journaltitle}{Phy\-si\-ka\-li\-sche Zeit\-schrift}
+      \field{langid}{german}
+      \field{month}{7}
+      \field{title}{Über die physikalischen Grundlagen der erweiterten Relativitätstheorie}
+      \field{volume}{22}
+      \field{year}{1921}
+      \field{dateera}{ce}
+      \field{pages}{473\bibrangedash 480}
+      \range{pages}{8}
+    \endentry
+    \entry{Weyl1968}{book}{}
+      \name{author}{1}{}{%
+        {{hash=53a04b0452e82d11dbbb27d1587aac8a}{%
+           family={Weyl},
+           familyi={W\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=af74d026477cddc3c67552147d6d8f89}{%
+           family={Chandrasekharan},
+           familyi={C\bibinitperiod},
+           given={Komaravolu},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{fullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{bibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorbibnamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authornamehash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{authorfullhash}{53a04b0452e82d11dbbb27d1587aac8a}
+      \strng{editorbibnamehash}{af74d026477cddc3c67552147d6d8f89}
+      \strng{editornamehash}{af74d026477cddc3c67552147d6d8f89}
+      \strng{editorfullhash}{af74d026477cddc3c67552147d6d8f89}
+      \field{extraname}{7}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{title}{Gesammelte Abhandlungen}
+      \field{volumes}{4}
+      \field{year}{1968}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+  \missing{[}
+\endrefsection
+\endinput
+
