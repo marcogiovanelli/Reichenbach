@@ -992,7 +992,7 @@
       \field{langid}{german}
       \field{month}{3}
       \field{number}{1}
-      \field{title}{Eine invariante Formulierung des Newtonschen Gravitationsgesetzes und des Grenzüberganges vom Einsteinschen zum Newtonschen Gesetz}
+      \field{title}{Eine invariante Formulierung des Newtonschen Gravitationsgesetzes und des Grenzüberganges vom {E}insteinschen zum Newtonschen Gesetz}
       \field{volume}{98}
       \field{year}{1928}
       \field{dateera}{ce}
@@ -1001,6 +1001,120 @@
       \verb{doi}
       \verb 10.1007/bf01451608
       \endverb
+    \endentry
+    \entry{Giovanelli2014a}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7ea053d5298b777cdea4d4b369a6ad92}{%
+           family={Giovanelli},
+           familyi={G\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{fullhash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{bibnamehash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{authorbibnamehash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{authornamehash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{authorfullhash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in History and Philosophy of Science. {P}art {B}: {S}tudies in History and Philosophy of Mo\-dern Phy\-sics}
+      \field{langid}{german}
+      \field{subtitle}{Phenomenological vs. Dynamical Treatments of Rods and Clocks in {Einstein}'s Thought}
+      \field{title}{`But One Must Not Legalize the Mentioned Sin}
+      \field{volume}{48}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{20\bibrangedash 44}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1016/j.shpsb.2014.08.012
+      \endverb
+      \verb{file}
+      \verb Giovanelli%2C%20Marco%20-%20But%20One%20Must%20not%20Legalize%20the%20Mentioned%20Sin%22.%20Phenomenological%20vs.%20Dynamical%27.pdf?dl=0:https\://www.dropbox.com/s/a8j2k8l0tync343/Giovanelli%2C%20Marco%20-%20But%20One%20Must%20not%20Legalize%20the%20Mentioned%20Sin%22.%20Phenomenological%20vs.%20Dynamical%27.pdf?dl=0:PDF
+      \endverb
+      \keyw{pra,dfg,erc,er,to}
+    \endentry
+    \entry{Giovanelli2016d}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7ea053d5298b777cdea4d4b369a6ad92}{%
+           family={Giovanelli},
+           familyi={G\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{fullhash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{bibnamehash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{authorbibnamehash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{authornamehash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{authorfullhash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in History and Philosophy of Science. {P}art {B}: {S}tudies in History and Philosophy of Mo\-dern Phy\-sics}
+      \field{langid}{english}
+      \field{title}{`... {B}ut I still Can't Get Rid of a Sense of Artificiality': The {Einstein-Reichenbach} Debate on the Geometrization of the Electromagnetic Field}
+      \field{volume}{54}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{35\bibrangedash 51}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.shpsb.2016.04.001
+      \endverb
+      \verb{file}
+      \verb :Giovanelli, Marco - But I still Can't Get Rid of a Sense of Artificiality. The Einstein-Reichenbach Debate on the Geometrization of the Electromagnetic Field.pdf:PDF;Giovanelli%2C%20Marco%20-%20But%20I%20still%20Can%27t%20Get%20Rid%20of%20a%20Sense%20of%20Artificiality.%20The%20Einstein-Reichenbach%20Debate%20on%20the%20Geometrization%20of%20the%20Electromagnetic%20Field.pdf?dl=0:https\://www.dropbox.com/s/xjpa3r4r7q1pulz/Giovanelli%2C%20Marco%20-%20But%20I%20still%20Can%27t%20Get%20Rid%20of%20a%20Sense%20of%20Artificiality.%20The%20Einstein-Reichenbach%20Debate%20on%20the%20Geometrization%20of%20the%20Electromagnetic%20Field.pdf?dl=0:PDF
+      \endverb
+      \keyw{pra,dfg,erc,er,to}
+    \endentry
+    \entry{Giovanelli2018a}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7ea053d5298b777cdea4d4b369a6ad92}{%
+           family={Giovanelli},
+           familyi={G\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{fullhash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{bibnamehash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{authorbibnamehash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{authornamehash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \strng{authorfullhash}{7ea053d5298b777cdea4d4b369a6ad92}
+      \field{extraname}{3}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal for Philosophy of Science}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{subtitle}{Émile Meyerson and Einstein's Late Rationalistic Realism}
+      \field{title}{`Physics Is a Kind of Metaphysics'}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{783\bibrangedash 829}
+      \range{pages}{47}
+      \verb{doi}
+      \verb 10.1007/s13194-018-0211-y
+      \endverb
+      \verb{file}
+      \verb :Giovanelli, Marco -`Physics Is a Kind of Metaphysics'. Emile Meyerson and Einstein's Late Rationalistic Realism.pdf:PDF;:Giovanelli, Marco - `Physics Is a Kind of Metaphysics'. ÃÃ¸Î©mile Meyerson and Einstein's Late Rationalistic Realism.pdf:PDF;Giovanelli%2C%20Marco%20-%60Physics%20Is%20a%20Kind%20of%20Metaphysics%27.%20Emile%20Meyerson%20and%20Einstein%27s%20Late%20Rationalistic%20Realism.pdf?dl=0:https\://www.dropbox.com/s/o1g0jlrhd1bisp0/Giovanelli%2C%20Marco%20-%60Physics%20Is%20a%20Kind%20of%20Metaphysics%27.%20Emile%20Meyerson%20and%20Einstein%27s%20Late%20Rationalistic%20Realism.pdf?dl=0:PDF
+      \endverb
+      \keyw{pra,dfg,erc,er,to}
     \endentry
     \entry{Goenner2004}{article}{}
       \name{author}{1}{}{%
@@ -1169,6 +1283,35 @@
       \verb{file}
       \verb :Infeld, Leopold - Zur Feldtheorie Von Elektrizitat Und Gravitation.pdf:PDF
       \endverb
+    \endentry
+    \entry{Kaluza1921}{sb}{}
+      \name{author}{1}{}{%
+        {{hash=6b8083335b8d12ae05f5865aea4d48ce}{%
+           family={Kaluza},
+           familyi={K\bibinitperiod},
+           given={Theodor},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b8083335b8d12ae05f5865aea4d48ce}
+      \strng{fullhash}{6b8083335b8d12ae05f5865aea4d48ce}
+      \strng{bibnamehash}{6b8083335b8d12ae05f5865aea4d48ce}
+      \strng{authorbibnamehash}{6b8083335b8d12ae05f5865aea4d48ce}
+      \strng{authornamehash}{6b8083335b8d12ae05f5865aea4d48ce}
+      \strng{authorfullhash}{6b8083335b8d12ae05f5865aea4d48ce}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sit\-zungs\-be\-rich\-te der Preu{ß}ischen Akademie der Wissenschaften}
+      \field{langid}{german}
+      \field{month}{12}
+      \field{title}{Zum Unitätsproblem der Physik}
+      \field{year}{1921}
+      \field{dateera}{ce}
+      \field{pages}{966\bibrangedash 972}
+      \range{pages}{7}
     \endentry
     \entry{Lehmkuhl2014}{article}{}
       \name{author}{1}{}{%
@@ -2119,7 +2262,6 @@
            given={John},
            giveni={J\bibinitperiod}}}%
       }
-      \true{moreeditor}
       \name{editor}{1}{}{%
         {{hash=ff10b2c1288568bd4d8e1bfbc86bfd8b}{%
            family={Renn},
@@ -2139,9 +2281,9 @@
       \strng{authorbibnamehash}{7786767ae8cfbb94931eac9831372fca}
       \strng{authornamehash}{7786767ae8cfbb94931eac9831372fca}
       \strng{authorfullhash}{7786767ae8cfbb94931eac9831372fca}
-      \strng{editorbibnamehash}{450e083f98ec65e35e799272827f294a}
-      \strng{editornamehash}{450e083f98ec65e35e799272827f294a}
-      \strng{editorfullhash}{450e083f98ec65e35e799272827f294a}
+      \strng{editorbibnamehash}{ff10b2c1288568bd4d8e1bfbc86bfd8b}
+      \strng{editornamehash}{ff10b2c1288568bd4d8e1bfbc86bfd8b}
+      \strng{editorfullhash}{ff10b2c1288568bd4d8e1bfbc86bfd8b}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{extradatescope}{labelyear}
@@ -2449,7 +2591,6 @@
       \field{dateera}{ce}
     \endentry
   \enddatalist
-  \missing{[}
 \endrefsection
 \endinput
 

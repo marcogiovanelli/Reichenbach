@@ -1,0 +1,22 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'Reichenbach-Final.blg'
+[36] biber-darwin:315> INFO - === Tue May 12, 2020, 10:26:11
+[84] Biber.pm:371> INFO - Reading 'Reichenbach-Final.bcf'
+[219] Biber.pm:889> INFO - Found 69 citekeys in bib section 0
+[235] Biber.pm:4093> INFO - Processing section 0
+[246] Biber.pm:4254> INFO - Looking for bibtex format file 'biblatex.bib' for section 0
+[509] bibtex.pm:1523> INFO - LaTeX decoding ...
+[5931] bibtex.pm:1340> INFO - Found BibTeX data source '/Users/marco/Library/texmf/bibtex/bib/Biblatex/biblatex.bib'
+[6602] Biber.pm:4254> INFO - Looking for bibtex format file 'cvb.bib' for section 0
+[6735] bibtex.pm:1523> INFO - LaTeX decoding ...
+[6789] bibtex.pm:1340> INFO - Found BibTeX data source '/Users/marco/Library/texmf/bibtex/bib/Biblatex/cvb.bib'
+[6998] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[6998] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[6998] Biber.pm:3921> INFO - Sorting list 'shorthand:shorthand/global//global/global' of type 'list' with template 'shorthand' and locale 'en-US'
+[6998] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[7060] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[7060] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[7060] Biber.pm:3921> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[7060] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[7109] bbl.pm:636> INFO - Writing 'Reichenbach-Final.bbl' with encoding 'UTF-8'
+[7133] bbl.pm:739> INFO - Output to Reichenbach-Final.bbl

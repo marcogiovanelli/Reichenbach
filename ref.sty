@@ -1,3 +1,4 @@
+\usepackage{url} 
 \usepackage[citebordercolor=b,linkbordercolor=b]{hyperref} 
 
 \makeatletter
@@ -11,7 +12,7 @@
          %window fit to page when opened
     %pdfstartview=,    % fits the width of the page to the window
     pdftitle={\@title},    % title
-   pdfauthor={Marco Giovanelli},     % author
+   %pdfauthor={Marco Giovanelli},     % author
    %pdfsubject={Subject},   % subject of the document
     %pdfcreator={Creator},   % creator of the document
     %pdfproducer={Producer}, % producer of the document
@@ -29,7 +30,7 @@
 \usepackage{cleveref}
 
 
-\newcommand\ensurecomma{%
+\newcommand{\ensurecomma}{%
   \@ifnextchar,{}{,\xspace}}
 
 \newcommand\Eg{{E.g.}\ensurecomma}
@@ -47,6 +48,8 @@
 
 \newcommand{\sa}[1]{see above \cref{#1}}
 \renewcommand{\sb}[1]{see below \cref{#1}}
+\newcommand{\Sa}[1]{See above \cref{#1}}
+\newcommand{\Sb}[1]{see below \cref{#1}}
 
 \newcommand{\scite}[1]{see \cite{#1}}
 \newcommand{\scites}[1]{see \cites{#1}}

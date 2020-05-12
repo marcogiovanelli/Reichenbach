@@ -53,6 +53,7 @@
 
 
 
+
 %\DeclareDatamodelFields[type=field,datatype=literal]{journaltitleaddon}
 %\DeclareDatamodelEntryfields[sb]{journaltitleaddon}
 %\DeclareFieldFormat{journaltitleaddon}{#1}
@@ -248,8 +249,8 @@
 \DeclareBibliographyAlias{inbookr}{inbook}
 %\DeclareBibliographyAlias{proceedings}{article}
 \DeclareBibliographyAlias{newspaper}{article}
-%\DeclareFieldFormat{titlecase}{\MakeSentenceCase*{#1}}
-%\DeclareFieldFormat{titleaddon}{\MakeSentenceCase*{#1}}
+\DeclareFieldFormat{titlecase}{\MakeSentenceCase*{#1}}
+\DeclareFieldFormat{titleaddon}{\MakeSentenceCase*{#1}}
 
 %\DefineBibliographyStrings{english}{%
 %nodate = {},
