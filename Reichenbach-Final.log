@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.4.10)  12 MAY 2020 10:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.4.10)  12 MAY 2020 11:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2636,10 +2636,10 @@ Package logreq Info: Writing requests to 'Reichenbach-Final.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 62132 strings out of 492616
- 1276102 string characters out of 6129481
- 1878681 words of memory out of 5000000
- 64406 multiletter control sequences out of 15000+600000
+ 62129 strings out of 492616
+ 1276054 string characters out of 6129481
+ 1878593 words of memory out of 5000000
+ 64404 multiletter control sequences out of 15000+600000
  690724 words of font info for 438 fonts, out of 8000000 for 9000
  1162 hyphenation exceptions out of 8191
  113i,20n,146p,2307b,2156s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2673,10 +2673,10 @@ t/fonts/type1/public/txfonts/txsyc.pfb></usr/local/texlive/2019/texmf-dist/font
 s/type1/public/newtx/txsys.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/
 public/newtx/zxlr.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ne
 wtx/zxlri.pfb>
-Output written on Reichenbach-Final.pdf (21 pages, 612490 bytes).
+Output written on Reichenbach-Final.pdf (21 pages, 612234 bytes).
 PDF statistics:
- 673 PDF objects out of 1000 (max. 8388607)
- 609 compressed objects within 7 object streams
- 156 named destinations out of 1000 (max. 500000)
+ 672 PDF objects out of 1000 (max. 8388607)
+ 608 compressed objects within 7 object streams
+ 155 named destinations out of 1000 (max. 500000)
  33453 words of extra memory for PDF output out of 35830 (max. 10000000)
 
